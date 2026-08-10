@@ -4,6 +4,16 @@
 ## 📌 Project Overview
 This project focuses on cleaning, standardizing, and mathematically transforming a highly unstructured healthcare dataset aggregated from multiple hospital systems. The objective is to prepare chaotic, contradictory lab results into a mathematically sound, clinically accurate dataset ready for advanced medical analytics and dashboarding.
 
+## 🔀 The Dual-Tool Approach
+To demonstrate versatility in data engineering, this project features the exact same data cleaning workflow executed using two distinct methods. This dual-pipeline approach ensures the data can be automated programmatically or integrated directly into standard business intelligence tools.
+
+* **Method 1: Python & Pandas (Programmatic)** 
+  A fully reproducible, vectorized pipeline built in a Jupyter Notebook. This approach utilizes custom logical functions, automated data type conversions, and NumPy masking to standardize the clinical data. 
+  👉 *See the `data_cleaning_pandas.ipynb` file for the documented code.*
+
+* **Method 2: Power Query (GUI-Based)**
+  A graphical data transformation pipeline designed to optimize the dataset for direct integration into Excel or Power BI dashboards. 
+
 ## 📊 Dataset Origin & Context
 * **Source:** downloaded from kaggle ([https://www.kaggle.com/datasets/nudratabbas/multi-hospital-lab-results-messy-data/data])
 
