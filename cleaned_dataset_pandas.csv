@@ -1,0 +1,1501 @@
+hospital,patient_id,test_name,test_value,unit,min_range,max_range,collection_date
+Hospital_A,1966,Glucose,8.56,mmol/L,3.9,5.5,2025-08-15
+Hospital_C,1826,Glucose,,mmol/L,3.9,5.5,2024-07-04
+Hospital_A,1606,Cholesterol,6.45,mmol/L,3.2,5.2,2024-11-13
+Hospital_B,1277,Glucose,,mmol/L,3.9,5.5,2024-04-29
+Hospital_A,1841,Cholesterol,5.61,mmol/L,3.2,5.2,2024-08-05
+Hospital_A,1738,Hemoglobin A1c,7.0,%,4.0,5.6,2024-12-23
+Hospital_C,1061,Hemoglobin A1c,5.2,%,4.0,5.6,2025-05-22
+Hospital_C,1752,Hemoglobin A1c,6.9,%,4.0,5.6,2024-08-30
+Hospital_B,1149,Glucose,4.49,mmol/L,3.9,5.5,2026-01-21
+Hospital_A,1335,Cholesterol,5.4,mmol/L,3.2,5.2,2025-09-08
+Hospital_C,1681,Cholesterol,5.66,mmol/L,3.2,5.2,2025-11-12
+Hospital_C,1622,Cholesterol,6.52,mmol/L,3.2,5.2,2025-03-04
+Hospital_A,1135,Hemoglobin A1c,,%,4.0,5.6,2024-08-16
+Hospital_B,1336,Glucose,9.98,mmol/L,3.9,5.5,2024-05-24
+Hospital_C,1477,Hemoglobin A1c,9.5,%,4.0,5.6,2024-03-28
+Hospital_C,1435,Cholesterol,4.15,mmol/L,3.2,5.2,2024-09-06
+Hospital_C,1990,Hemoglobin A1c,9.9,%,4.0,5.6,2024-04-19
+Hospital_A,1638,Cholesterol,4.53,mmol/L,3.2,5.2,2025-12-08
+Hospital_B,1904,Glucose,7.84,mmol/L,3.9,5.5,2025-05-03
+Hospital_A,1024,Cholesterol,5.15,mmol/L,3.2,5.2,2025-05-21
+Hospital_A,1278,Hemoglobin A1c,6.9,%,4.0,5.6,2024-07-23
+Hospital_C,1478,Cholesterol,7.18,mmol/L,3.2,5.2,2026-02-25
+Hospital_A,1021,Cholesterol,4.8,mmol/L,3.2,5.2,2025-01-04
+Hospital_B,1918,Glucose,8.8,mmol/L,3.9,5.5,2025-07-19
+Hospital_C,1614,Cholesterol,5.9,mmol/L,3.2,5.2,2024-06-20
+Hospital_B,1508,Glucose,4.94,mmol/L,3.9,5.5,2025-12-23
+Hospital_C,1104,Glucose,8.44,mmol/L,3.9,5.5,2025-12-05
+Hospital_C,1758,Cholesterol,4.68,mmol/L,3.2,5.2,2025-09-13
+Hospital_A,1944,Cholesterol,4.23,mmol/L,3.2,5.2,2025-10-22
+Hospital_A,1589,Glucose,7.28,mmol/L,3.9,5.5,2025-06-28
+Hospital_B,1447,Glucose,9.14,mmol/L,3.9,5.5,2025-05-22
+Hospital_C,1770,Glucose,7.92,mmol/L,3.9,5.5,2024-09-10
+Hospital_B,1719,Cholesterol,4.83,mmol/L,3.2,5.2,2024-08-20
+Hospital_C,1212,Hemoglobin A1c,8.5,%,4.0,5.6,2025-07-14
+Hospital_A,1771,Cholesterol,5.26,mmol/L,3.2,5.2,2025-01-27
+Hospital_B,1567,Glucose,500.0,mmol/L,3.9,5.5,2024-11-17
+Hospital_B,1871,Hemoglobin A1c,6.4,%,4.0,5.6,2025-07-14
+Hospital_A,1974,Hemoglobin A1c,5.1,%,4.0,5.6,2025-10-12
+Hospital_B,1037,Hemoglobin A1c,4.5,%,4.0,5.6,2025-04-25
+Hospital_B,1770,Hemoglobin A1c,7.3,%,4.0,5.6,2025-04-08
+Hospital_B,1885,Hemoglobin A1c,6.1,%,4.0,5.6,2025-07-14
+Hospital_A,1782,Glucose,6.06,mmol/L,3.9,5.5,2024-11-16
+Hospital_B,1835,Glucose,6.82,mmol/L,3.9,5.5,2025-06-15
+Hospital_C,1465,Glucose,4.72,mmol/L,3.9,5.5,2024-12-20
+Hospital_B,1661,Glucose,7.38,mmol/L,3.9,5.5,2025-01-29
+Hospital_A,1010,Glucose,7.01,mmol/L,3.9,5.5,2024-10-27
+Hospital_A,1356,Hemoglobin A1c,9.4,%,4.0,5.6,2025-06-16
+Hospital_B,1386,Cholesterol,7.27,mmol/L,3.2,5.2,2025-10-02
+Hospital_A,1236,Cholesterol,4.19,mmol/L,3.2,5.2,2024-09-08
+Hospital_B,1952,Hemoglobin A1c,5.0,%,4.0,5.6,2025-02-11
+Hospital_B,1090,Glucose,6.16,mmol/L,3.9,5.5,2025-10-17
+Hospital_A,1543,Cholesterol,7.13,mmol/L,3.2,5.2,2025-03-28
+Hospital_A,1644,Hemoglobin A1c,5.8,%,4.0,5.6,2024-07-04
+Hospital_C,1339,Glucose,9.68,mmol/L,3.9,5.5,2025-01-12
+Hospital_C,1803,Cholesterol,7.47,mmol/L,3.2,5.2,2024-07-14
+Hospital_A,1813,Hemoglobin A1c,6.9,%,4.0,5.6,2024-08-21
+Hospital_A,1754,Hemoglobin A1c,6.1,%,4.0,5.6,2025-02-02
+Hospital_B,1283,Cholesterol,4.89,mmol/L,3.2,5.2,2026-01-22
+Hospital_B,1583,Glucose,5.46,mmol/L,3.9,5.5,2026-03-25
+Hospital_C,1917,Hemoglobin A1c,5.4,%,4.0,5.6,2025-07-06
+Hospital_C,1504,Cholesterol,7.17,mmol/L,3.2,5.2,2026-02-14
+Hospital_A,1950,Hemoglobin A1c,9.1,%,4.0,5.6,2026-03-21
+Hospital_C,1820,Glucose,7.61,mmol/L,3.9,5.5,2025-06-25
+Hospital_B,1265,Glucose,8.57,mmol/L,3.9,5.5,2025-07-06
+Hospital_A,1700,Cholesterol,6.26,mmol/L,3.2,5.2,2024-07-13
+Hospital_B,1928,Hemoglobin A1c,8.9,%,4.0,5.6,2025-07-22
+Hospital_C,1687,Cholesterol,4.69,mmol/L,3.2,5.2,2026-01-31
+Hospital_A,1307,Glucose,8.96,mmol/L,3.9,5.5,2025-11-21
+Hospital_B,1713,Glucose,4.48,mmol/L,3.9,5.5,2025-01-13
+Hospital_C,1156,Cholesterol,7.57,mmol/L,3.2,5.2,2024-04-24
+Hospital_C,1484,Glucose,9.13,mmol/L,3.9,5.5,2025-08-08
+Hospital_A,1102,Cholesterol,,mmol/L,3.2,5.2,2024-08-06
+Hospital_A,1833,Cholesterol,6.92,mmol/L,3.2,5.2,2024-10-06
+Hospital_C,1457,Cholesterol,4.18,mmol/L,3.2,5.2,2024-12-30
+Hospital_C,1409,Cholesterol,6.69,mmol/L,3.2,5.2,2025-05-25
+Hospital_A,1923,Hemoglobin A1c,5.6,%,4.0,5.6,2025-09-09
+Hospital_C,1660,Hemoglobin A1c,9.2,%,4.0,5.6,2024-06-29
+Hospital_C,1095,Hemoglobin A1c,5.2,%,4.0,5.6,2024-05-06
+Hospital_B,2000,Glucose,5.77,mmol/L,3.9,5.5,2025-06-30
+Hospital_A,1779,Hemoglobin A1c,5.2,%,4.0,5.6,2024-06-15
+Hospital_C,1567,Hemoglobin A1c,6.9,%,4.0,5.6,2024-08-23
+Hospital_A,1196,Glucose,4.75,mmol/L,3.9,5.5,2024-10-16
+Hospital_B,1957,Cholesterol,7.55,mmol/L,3.2,5.2,2026-01-20
+Hospital_C,1813,Cholesterol,6.66,mmol/L,3.2,5.2,2024-07-01
+Hospital_B,1801,Cholesterol,4.58,mmol/L,3.2,5.2,2025-08-12
+Hospital_B,1136,Hemoglobin A1c,10.2,%,4.0,5.6,2024-07-08
+Hospital_A,1161,Hemoglobin A1c,8.5,%,4.0,5.6,2025-06-22
+Hospital_B,1683,Glucose,9.51,mmol/L,3.9,5.5,2026-02-07
+Hospital_A,1622,Hemoglobin A1c,8.0,%,4.0,5.6,2025-08-09
+Hospital_B,1164,Cholesterol,,mmol/L,3.2,5.2,2024-05-25
+Hospital_C,1079,Cholesterol,6.49,mmol/L,3.2,5.2,2025-01-15
+Hospital_B,1621,Glucose,8.38,mmol/L,3.9,5.5,2026-01-15
+Hospital_B,1661,Glucose,7.16,mmol/L,3.9,5.5,2025-06-04
+Hospital_B,1990,Hemoglobin A1c,4.5,%,4.0,5.6,2024-10-08
+Hospital_C,1688,Glucose,7.06,mmol/L,3.9,5.5,2025-12-31
+Hospital_C,1810,Glucose,8.23,mmol/L,3.9,5.5,2024-07-27
+Hospital_A,1161,Cholesterol,4.71,mmol/L,3.2,5.2,2025-11-11
+Hospital_A,1876,Hemoglobin A1c,9.0,%,4.0,5.6,2025-03-22
+Hospital_C,1843,Glucose,4.99,mmol/L,3.9,5.5,2024-11-14
+Hospital_A,1088,Glucose,7.49,mmol/L,3.9,5.5,2026-01-02
+Hospital_C,1136,Hemoglobin A1c,9.3,%,4.0,5.6,2025-04-10
+Hospital_A,1248,Glucose,5.87,mmol/L,3.9,5.5,2024-05-05
+Hospital_B,1736,Glucose,4.98,mmol/L,3.9,5.5,2024-06-27
+Hospital_C,1454,Glucose,6.34,mmol/L,3.9,5.5,2025-01-17
+Hospital_C,1921,Hemoglobin A1c,5.8,%,4.0,5.6,2024-11-02
+Hospital_B,1257,Glucose,8.96,mmol/L,3.9,5.5,2024-06-16
+Hospital_B,1804,Cholesterol,5.68,mmol/L,3.2,5.2,2026-02-09
+Hospital_C,1916,Hemoglobin A1c,5.1,%,4.0,5.6,2026-03-20
+Hospital_C,1382,Hemoglobin A1c,5.2,%,4.0,5.6,2026-03-12
+Hospital_C,1597,Glucose,8.61,mmol/L,3.9,5.5,2025-08-13
+Hospital_C,1203,Hemoglobin A1c,7.5,%,4.0,5.6,2024-11-01
+Hospital_C,1270,Cholesterol,7.36,mmol/L,3.2,5.2,2025-06-06
+Hospital_B,1170,Hemoglobin A1c,8.6,%,4.0,5.6,2024-10-15
+Hospital_B,1793,Hemoglobin A1c,5.8,%,4.0,5.6,2024-11-29
+Hospital_B,1679,Cholesterol,7.62,mmol/L,3.2,5.2,2025-12-09
+Hospital_A,1728,Glucose,7.03,mmol/L,3.9,5.5,2025-09-14
+Hospital_B,1086,Glucose,9.01,mmol/L,3.9,5.5,2025-05-13
+Hospital_B,1587,Glucose,7.61,mmol/L,3.9,5.5,2024-10-29
+Hospital_B,1901,Cholesterol,3.99,mmol/L,3.2,5.2,2025-08-15
+Hospital_B,1145,Hemoglobin A1c,6.8,%,4.0,5.6,2025-09-16
+Hospital_B,1186,Hemoglobin A1c,,%,4.0,5.6,2024-08-27
+Hospital_C,1511,Cholesterol,5.47,mmol/L,3.2,5.2,2024-07-19
+Hospital_C,1866,Cholesterol,4.28,mmol/L,3.2,5.2,2026-03-07
+Hospital_B,1088,Cholesterol,5.31,mmol/L,3.2,5.2,2025-09-02
+Hospital_B,1990,Hemoglobin A1c,9.3,%,4.0,5.6,2024-12-24
+Hospital_B,1225,Cholesterol,7.57,mmol/L,3.2,5.2,2025-08-29
+Hospital_B,1383,Hemoglobin A1c,9.9,%,4.0,5.6,2024-12-21
+Hospital_C,1541,Glucose,6.5,mmol/L,3.9,5.5,2025-11-04
+Hospital_A,1418,Glucose,9.59,mmol/L,3.9,5.5,2024-12-30
+Hospital_B,1093,Cholesterol,4.6,mmol/L,3.2,5.2,2025-01-26
+Hospital_B,1646,Glucose,8.19,mmol/L,3.9,5.5,2024-06-11
+Hospital_A,1636,Glucose,6.78,mmol/L,3.9,5.5,2026-02-23
+Hospital_A,1452,Hemoglobin A1c,7.2,%,4.0,5.6,2025-04-10
+Hospital_A,1758,Cholesterol,6.6,mmol/L,3.2,5.2,2025-05-04
+Hospital_C,1157,Glucose,4.12,mmol/L,3.9,5.5,2024-07-11
+Hospital_B,1390,Cholesterol,7.65,mmol/L,3.2,5.2,2024-06-11
+Hospital_A,1351,Cholesterol,6.54,mmol/L,3.2,5.2,2024-08-25
+Hospital_B,1808,Hemoglobin A1c,10.4,%,4.0,5.6,2025-07-31
+Hospital_A,1266,Glucose,9.87,mmol/L,3.9,5.5,2025-08-16
+Hospital_C,1600,Glucose,7.98,mmol/L,3.9,5.5,2024-09-26
+Hospital_C,1081,Glucose,6.94,mmol/L,3.9,5.5,2024-05-01
+Hospital_B,1294,Glucose,9.36,mmol/L,3.9,5.5,2025-08-11
+Hospital_B,1195,Glucose,8.99,mmol/L,3.9,5.5,2025-06-06
+Hospital_B,1843,Cholesterol,7.65,mmol/L,3.2,5.2,2025-06-20
+Hospital_C,1757,Cholesterol,7.14,mmol/L,3.2,5.2,2025-01-11
+Hospital_A,1908,Glucose,4.14,mmol/L,3.9,5.5,2025-01-23
+Hospital_A,1369,Cholesterol,7.07,mmol/L,3.2,5.2,2025-12-11
+Hospital_C,1320,Hemoglobin A1c,8.9,%,4.0,5.6,2026-01-18
+Hospital_C,1739,Hemoglobin A1c,4.6,%,4.0,5.6,2024-11-27
+Hospital_B,1144,Cholesterol,4.54,mmol/L,3.2,5.2,2025-06-27
+Hospital_C,1849,Hemoglobin A1c,8.8,%,4.0,5.6,2024-04-29
+Hospital_B,1384,Cholesterol,4.16,mmol/L,3.2,5.2,2025-12-03
+Hospital_C,1680,Cholesterol,5.8,mmol/L,3.2,5.2,2025-02-12
+Hospital_A,1102,Hemoglobin A1c,7.2,%,4.0,5.6,2025-09-09
+Hospital_C,1029,Cholesterol,5.75,mmol/L,3.2,5.2,2025-05-19
+Hospital_B,1169,Glucose,6.54,mmol/L,3.9,5.5,2025-09-26
+Hospital_C,1187,Cholesterol,5.41,mmol/L,3.2,5.2,2025-08-01
+Hospital_C,1315,Glucose,9.9,mmol/L,3.9,5.5,2026-02-20
+Hospital_B,1099,Hemoglobin A1c,6.4,%,4.0,5.6,2024-06-13
+Hospital_C,1215,Cholesterol,6.55,mmol/L,3.2,5.2,2026-03-19
+Hospital_C,1637,Glucose,7.5,mmol/L,3.9,5.5,2025-11-18
+Hospital_B,1450,Hemoglobin A1c,6.3,%,4.0,5.6,2025-07-02
+Hospital_A,1444,Cholesterol,,mmol/L,3.2,5.2,2024-11-09
+Hospital_A,1795,Hemoglobin A1c,5.2,%,4.0,5.6,2025-12-11
+Hospital_C,1216,Hemoglobin A1c,5.4,%,4.0,5.6,2025-06-29
+Hospital_B,1618,Hemoglobin A1c,5.9,%,4.0,5.6,2024-10-27
+Hospital_A,1341,Cholesterol,6.07,mmol/L,3.2,5.2,2025-12-29
+Hospital_A,1141,Hemoglobin A1c,9.9,%,4.0,5.6,2025-03-20
+Hospital_C,1208,Hemoglobin A1c,8.4,%,4.0,5.6,2026-02-07
+Hospital_C,1402,Hemoglobin A1c,8.3,%,4.0,5.6,2024-03-26
+Hospital_B,1666,Glucose,7.67,mmol/L,3.9,5.5,2024-07-28
+Hospital_C,1136,Cholesterol,,mmol/L,3.2,5.2,2025-12-05
+Hospital_C,1390,Cholesterol,4.09,mmol/L,3.2,5.2,2024-10-14
+Hospital_B,1865,Hemoglobin A1c,9.5,%,4.0,5.6,2025-01-19
+Hospital_C,1036,Cholesterol,6.33,mmol/L,3.2,5.2,2024-11-18
+Hospital_C,1186,Glucose,8.97,mmol/L,3.9,5.5,2026-01-12
+Hospital_C,1640,Glucose,6.53,mmol/L,3.9,5.5,2024-04-28
+Hospital_A,1061,Hemoglobin A1c,8.7,%,4.0,5.6,2026-03-14
+Hospital_C,1031,Glucose,7.52,mmol/L,3.9,5.5,2026-01-03
+Hospital_C,1204,Glucose,6.38,mmol/L,3.9,5.5,2025-06-03
+Hospital_A,1423,Hemoglobin A1c,5.1,%,4.0,5.6,2024-06-07
+Hospital_B,1131,Cholesterol,4.27,mmol/L,3.2,5.2,2025-04-15
+Hospital_B,1787,Hemoglobin A1c,10.3,%,4.0,5.6,2024-06-29
+Hospital_A,1388,Glucose,9.55,mmol/L,3.9,5.5,2025-03-18
+Hospital_B,1410,Cholesterol,4.59,mmol/L,3.2,5.2,2024-12-12
+Hospital_B,1296,Glucose,,mmol/L,3.9,5.5,2026-02-02
+Hospital_B,1687,Hemoglobin A1c,8.0,%,4.0,5.6,2024-06-04
+Hospital_C,1813,Glucose,8.13,mmol/L,3.9,5.5,2025-01-11
+Hospital_B,1585,Hemoglobin A1c,5.2,%,4.0,5.6,2024-07-02
+Hospital_B,1428,Cholesterol,5.94,mmol/L,3.2,5.2,2025-12-03
+Hospital_C,1969,Glucose,8.46,mmol/L,3.9,5.5,2025-01-13
+Hospital_C,1343,Hemoglobin A1c,8.4,%,4.0,5.6,2025-03-21
+Hospital_C,1835,Glucose,8.35,mmol/L,3.9,5.5,2025-07-23
+Hospital_C,1673,Cholesterol,7.55,mmol/L,3.2,5.2,2025-02-14
+Hospital_B,1636,Cholesterol,6.44,mmol/L,3.2,5.2,2025-02-22
+Hospital_C,1261,Hemoglobin A1c,4.9,%,4.0,5.6,2025-11-19
+Hospital_B,1183,Hemoglobin A1c,4.7,%,4.0,5.6,2025-06-01
+Hospital_C,1402,Cholesterol,7.12,mmol/L,3.2,5.2,2026-01-17
+Hospital_B,1081,Cholesterol,4.83,mmol/L,3.2,5.2,2024-05-09
+Hospital_A,1088,Hemoglobin A1c,,%,4.0,5.6,2024-11-26
+Hospital_A,1880,Glucose,9.19,mmol/L,3.9,5.5,2025-09-11
+Hospital_C,1019,Cholesterol,7.55,mmol/L,3.2,5.2,2025-05-07
+Hospital_C,1286,Glucose,9.37,mmol/L,3.9,5.5,2025-02-24
+Hospital_A,1770,Cholesterol,4.21,mmol/L,3.2,5.2,2024-08-20
+Hospital_C,1397,Cholesterol,5.17,mmol/L,3.2,5.2,2025-04-08
+Hospital_B,1110,Glucose,6.93,mmol/L,3.9,5.5,2026-02-05
+Hospital_B,1793,Hemoglobin A1c,9.2,%,4.0,5.6,2026-03-25
+Hospital_C,1481,Glucose,8.88,mmol/L,3.9,5.5,2025-11-10
+Hospital_C,1518,Cholesterol,6.95,mmol/L,3.2,5.2,2025-11-08
+Hospital_B,1054,Glucose,8.08,mmol/L,3.9,5.5,2025-07-13
+Hospital_B,1409,Glucose,9.34,mmol/L,3.9,5.5,2024-07-09
+Hospital_B,1461,Glucose,,mmol/L,3.9,5.5,2025-05-16
+Hospital_A,1818,Cholesterol,4.06,mmol/L,3.2,5.2,2024-08-14
+Hospital_A,1330,Cholesterol,4.76,mmol/L,3.2,5.2,2025-06-23
+Hospital_B,1339,Cholesterol,6.14,mmol/L,3.2,5.2,2025-10-01
+Hospital_B,1801,Glucose,9.66,mmol/L,3.9,5.5,2025-01-21
+Hospital_A,1009,Glucose,,mmol/L,3.9,5.5,2026-01-02
+Hospital_C,1638,Cholesterol,4.32,mmol/L,3.2,5.2,2024-05-29
+Hospital_A,1135,Glucose,,mmol/L,3.9,5.5,2024-08-19
+Hospital_A,1140,Glucose,9.05,mmol/L,3.9,5.5,2024-08-28
+Hospital_C,1561,Hemoglobin A1c,10.2,%,4.0,5.6,2024-05-24
+Hospital_B,1348,Glucose,4.83,mmol/L,3.9,5.5,2026-03-19
+Hospital_A,1531,Cholesterol,6.04,mmol/L,3.2,5.2,2025-12-02
+Hospital_A,1550,Cholesterol,6.39,mmol/L,3.2,5.2,2025-07-30
+Hospital_C,1794,Hemoglobin A1c,5.7,%,4.0,5.6,2024-04-20
+Hospital_B,1992,Glucose,9.28,mmol/L,3.9,5.5,2026-01-25
+Hospital_B,1827,Cholesterol,6.41,mmol/L,3.2,5.2,2025-01-31
+Hospital_C,1321,Cholesterol,5.85,mmol/L,3.2,5.2,2024-08-31
+Hospital_A,1616,Cholesterol,3.93,mmol/L,3.2,5.2,2024-06-20
+Hospital_A,1055,Glucose,5.54,mmol/L,3.9,5.5,2025-12-23
+Hospital_C,1579,Cholesterol,5.24,mmol/L,3.2,5.2,2025-07-25
+Hospital_A,1596,Cholesterol,,mmol/L,3.2,5.2,2025-08-31
+Hospital_C,2000,Cholesterol,5.76,mmol/L,3.2,5.2,2025-02-16
+Hospital_A,1405,Glucose,9.32,mmol/L,3.9,5.5,2025-09-07
+Hospital_A,1126,Hemoglobin A1c,9.7,%,4.0,5.6,2024-11-19
+Hospital_B,1787,Glucose,5.97,mmol/L,3.9,5.5,2024-06-24
+Hospital_A,1115,Cholesterol,4.44,mmol/L,3.2,5.2,2026-02-23
+Hospital_C,1390,Cholesterol,7.01,mmol/L,3.2,5.2,2024-05-11
+Hospital_C,1784,Cholesterol,5.34,mmol/L,3.2,5.2,2025-06-17
+Hospital_A,1499,Glucose,8.86,mmol/L,3.9,5.5,2026-03-18
+Hospital_C,1053,Glucose,8.8,mmol/L,3.9,5.5,2025-02-16
+Hospital_A,1842,Hemoglobin A1c,5.4,%,4.0,5.6,2026-03-24
+Hospital_C,1231,Glucose,4.63,mmol/L,3.9,5.5,2025-10-05
+Hospital_A,1571,Hemoglobin A1c,9.2,%,4.0,5.6,2025-05-21
+Hospital_B,1051,Cholesterol,5.44,mmol/L,3.2,5.2,2026-02-22
+Hospital_C,1741,Cholesterol,5.89,mmol/L,3.2,5.2,2025-12-16
+Hospital_A,1785,Hemoglobin A1c,7.5,%,4.0,5.6,2024-12-22
+Hospital_B,1780,Cholesterol,4.18,mmol/L,3.2,5.2,2025-05-05
+Hospital_C,1279,Glucose,4.98,mmol/L,3.9,5.5,2025-05-26
+Hospital_C,1979,Hemoglobin A1c,8.7,%,4.0,5.6,2025-02-07
+Hospital_C,1414,Cholesterol,5.05,mmol/L,3.2,5.2,2025-07-10
+Hospital_C,1500,Hemoglobin A1c,7.9,%,4.0,5.6,2026-01-12
+Hospital_A,1619,Glucose,7.13,mmol/L,3.9,5.5,2024-11-10
+Hospital_C,1720,Glucose,8.33,mmol/L,3.9,5.5,2025-06-02
+Hospital_A,1620,Hemoglobin A1c,10.2,%,4.0,5.6,2026-01-17
+Hospital_B,1565,Hemoglobin A1c,9.9,%,4.0,5.6,2024-05-30
+Hospital_B,1500,Glucose,,mmol/L,3.9,5.5,2025-03-21
+Hospital_C,1201,Hemoglobin A1c,8.9,%,4.0,5.6,2025-08-25
+Hospital_B,1808,Hemoglobin A1c,,%,4.0,5.6,2025-12-30
+Hospital_A,1891,Glucose,8.89,mmol/L,3.9,5.5,2025-12-07
+Hospital_B,1524,Cholesterol,5.63,mmol/L,3.2,5.2,2025-03-31
+Hospital_A,1626,Glucose,6.32,mmol/L,3.9,5.5,2024-09-04
+Hospital_B,1480,Hemoglobin A1c,10.4,%,4.0,5.6,2026-03-24
+Hospital_B,1957,Cholesterol,5.9,mmol/L,3.2,5.2,2025-09-03
+Hospital_C,1501,Hemoglobin A1c,5.9,%,4.0,5.6,2024-09-20
+Hospital_B,1210,Glucose,,mmol/L,3.9,5.5,2024-06-10
+Hospital_C,1266,Cholesterol,6.42,mmol/L,3.2,5.2,2024-04-30
+Hospital_A,1028,Hemoglobin A1c,9.2,%,4.0,5.6,2025-04-03
+Hospital_B,1301,Hemoglobin A1c,5.4,%,4.0,5.6,2024-07-26
+Hospital_A,1023,Glucose,8.03,mmol/L,3.9,5.5,2024-04-19
+Hospital_C,1660,Cholesterol,7.63,mmol/L,3.2,5.2,2024-09-21
+Hospital_C,1766,Glucose,6.37,mmol/L,3.9,5.5,2025-09-07
+Hospital_A,1309,Glucose,6.42,mmol/L,3.9,5.5,2025-04-10
+Hospital_C,1079,Glucose,5.19,mmol/L,3.9,5.5,2024-04-03
+Hospital_B,1064,Cholesterol,5.82,mmol/L,3.2,5.2,2024-06-17
+Hospital_C,1165,Glucose,9.09,mmol/L,3.9,5.5,2024-06-08
+Hospital_C,1011,Cholesterol,5.68,mmol/L,3.2,5.2,2024-06-21
+Hospital_C,1692,Glucose,5.49,mmol/L,3.9,5.5,2024-06-10
+Hospital_C,1144,Cholesterol,6.19,mmol/L,3.2,5.2,2024-07-15
+Hospital_A,1515,Glucose,8.98,mmol/L,3.9,5.5,2024-06-30
+Hospital_A,1241,Cholesterol,6.69,mmol/L,3.2,5.2,2024-07-06
+Hospital_A,1123,Glucose,5.56,mmol/L,3.9,5.5,2025-06-30
+Hospital_A,1249,Glucose,,mmol/L,3.9,5.5,2024-06-17
+Hospital_C,1523,Cholesterol,4.24,mmol/L,3.2,5.2,2024-11-13
+Hospital_C,1990,Hemoglobin A1c,8.8,%,4.0,5.6,2025-12-01
+Hospital_C,1407,Cholesterol,6.78,mmol/L,3.2,5.2,2026-01-27
+Hospital_A,1686,Cholesterol,6.38,mmol/L,3.2,5.2,2025-04-09
+Hospital_C,1838,Cholesterol,7.62,mmol/L,3.2,5.2,2025-06-01
+Hospital_C,1791,Hemoglobin A1c,9.3,%,4.0,5.6,2024-12-12
+Hospital_C,1247,Glucose,3.98,mmol/L,3.9,5.5,2024-11-26
+Hospital_C,1648,Hemoglobin A1c,8.0,%,4.0,5.6,2025-11-15
+Hospital_B,1965,Cholesterol,7.02,mmol/L,3.2,5.2,2024-09-27
+Hospital_B,1710,Hemoglobin A1c,9.4,%,4.0,5.6,2024-07-11
+Hospital_C,1608,Hemoglobin A1c,6.1,%,4.0,5.6,2024-10-19
+Hospital_B,1545,Hemoglobin A1c,6.1,%,4.0,5.6,2026-02-13
+Hospital_B,1589,Glucose,5.41,mmol/L,3.9,5.5,2024-12-10
+Hospital_C,1008,Cholesterol,7.17,mmol/L,3.2,5.2,2025-01-01
+Hospital_A,1037,Glucose,9.12,mmol/L,3.9,5.5,2025-12-27
+Hospital_C,1835,Cholesterol,6.62,mmol/L,3.2,5.2,2025-10-26
+Hospital_B,1625,Cholesterol,4.93,mmol/L,3.2,5.2,2025-11-01
+Hospital_B,1595,Glucose,8.36,mmol/L,3.9,5.5,2024-11-30
+Hospital_A,1099,Cholesterol,5.2,mmol/L,3.2,5.2,2024-09-08
+Hospital_A,1068,Glucose,7.07,mmol/L,3.9,5.5,2024-10-31
+Hospital_B,1323,Glucose,5.93,mmol/L,3.9,5.5,2025-03-26
+Hospital_B,1273,Hemoglobin A1c,10.3,%,4.0,5.6,2025-08-29
+Hospital_C,1188,Glucose,6.31,mmol/L,3.9,5.5,2025-12-08
+Hospital_C,1524,Hemoglobin A1c,4.8,%,4.0,5.6,2026-03-20
+Hospital_A,1195,Glucose,9.14,mmol/L,3.9,5.5,2025-01-22
+Hospital_B,1845,Cholesterol,6.19,mmol/L,3.2,5.2,2024-07-12
+Hospital_C,1080,Cholesterol,4.09,mmol/L,3.2,5.2,2025-08-25
+Hospital_A,1012,Glucose,5.1,mmol/L,3.9,5.5,2026-01-24
+Hospital_A,1613,Hemoglobin A1c,6.1,%,4.0,5.6,2025-04-20
+Hospital_B,1123,Cholesterol,5.63,mmol/L,3.2,5.2,2024-10-18
+Hospital_A,1416,Cholesterol,5.83,mmol/L,3.2,5.2,2025-12-27
+Hospital_B,1370,Cholesterol,4.06,mmol/L,3.2,5.2,2024-12-27
+Hospital_C,1043,Cholesterol,4.86,mmol/L,3.2,5.2,2026-03-22
+Hospital_A,1013,Glucose,9.56,mmol/L,3.9,5.5,2024-07-26
+Hospital_C,1858,Cholesterol,,mmol/L,3.2,5.2,2025-01-30
+Hospital_C,1374,Hemoglobin A1c,6.9,%,4.0,5.6,2025-07-05
+Hospital_B,1668,Glucose,9.59,mmol/L,3.9,5.5,2025-08-02
+Hospital_C,1593,Hemoglobin A1c,5.3,%,4.0,5.6,2025-08-15
+Hospital_B,1665,Cholesterol,4.14,mmol/L,3.2,5.2,2025-07-10
+Hospital_C,1826,Cholesterol,4.98,mmol/L,3.2,5.2,2025-06-25
+Hospital_A,1306,Cholesterol,6.33,mmol/L,3.2,5.2,2026-01-02
+Hospital_C,1952,Hemoglobin A1c,7.2,%,4.0,5.6,2026-02-01
+Hospital_A,1301,Glucose,7.52,mmol/L,3.9,5.5,2025-07-23
+Hospital_B,1902,Hemoglobin A1c,7.9,%,4.0,5.6,2025-05-26
+Hospital_A,1920,Glucose,4.74,mmol/L,3.9,5.5,2025-11-07
+Hospital_A,1451,Hemoglobin A1c,7.0,%,4.0,5.6,2026-03-18
+Hospital_A,1465,Cholesterol,5.49,mmol/L,3.2,5.2,2024-10-27
+Hospital_B,1087,Hemoglobin A1c,7.8,%,4.0,5.6,2024-09-24
+Hospital_A,1451,Hemoglobin A1c,5.7,%,4.0,5.6,2025-01-24
+Hospital_A,1861,Cholesterol,7.21,mmol/L,3.2,5.2,2025-12-22
+Hospital_B,1092,Glucose,9.14,mmol/L,3.9,5.5,2025-07-02
+Hospital_B,1763,Cholesterol,,mmol/L,3.2,5.2,2025-08-11
+Hospital_C,1369,Hemoglobin A1c,8.2,%,4.0,5.6,2026-02-15
+Hospital_B,1279,Glucose,9.32,mmol/L,3.9,5.5,2025-04-14
+Hospital_A,1673,Cholesterol,4.09,mmol/L,3.2,5.2,2025-10-25
+Hospital_A,1505,Glucose,5.79,mmol/L,3.9,5.5,2024-10-15
+Hospital_B,1497,Hemoglobin A1c,8.7,%,4.0,5.6,2026-01-19
+Hospital_A,1353,Hemoglobin A1c,8.6,%,4.0,5.6,2025-07-02
+Hospital_C,1986,Cholesterol,7.33,mmol/L,3.2,5.2,2025-05-23
+Hospital_B,1683,Hemoglobin A1c,5.0,%,4.0,5.6,2024-05-12
+Hospital_B,1143,Hemoglobin A1c,,%,4.0,5.6,2025-09-03
+Hospital_B,1113,Hemoglobin A1c,5.5,%,4.0,5.6,2025-03-14
+Hospital_C,1188,Cholesterol,3.89,mmol/L,3.2,5.2,2024-05-13
+Hospital_A,1683,Glucose,4.86,mmol/L,3.9,5.5,2025-12-10
+Hospital_C,1927,Glucose,4.42,mmol/L,3.9,5.5,2025-01-04
+Hospital_B,1104,Cholesterol,5.03,mmol/L,3.2,5.2,2025-01-22
+Hospital_B,1071,Glucose,9.62,mmol/L,3.9,5.5,2024-09-03
+Hospital_A,1948,Glucose,6.86,mmol/L,3.9,5.5,2025-03-15
+Hospital_C,1109,Glucose,4.21,mmol/L,3.9,5.5,2025-09-09
+Hospital_C,1962,Cholesterol,4.31,mmol/L,3.2,5.2,2025-03-28
+Hospital_C,1685,Glucose,9.55,mmol/L,3.9,5.5,2025-06-02
+Hospital_C,1525,Cholesterol,4.34,mmol/L,3.2,5.2,2024-04-06
+Hospital_B,1115,Cholesterol,4.43,mmol/L,3.2,5.2,2025-03-12
+Hospital_B,1183,Hemoglobin A1c,6.0,%,4.0,5.6,2024-07-20
+Hospital_B,1467,Cholesterol,6.54,mmol/L,3.2,5.2,2025-04-14
+Hospital_A,1102,Glucose,8.69,mmol/L,3.9,5.5,2024-05-14
+Hospital_A,1660,Glucose,6.72,mmol/L,3.9,5.5,2024-12-21
+Hospital_B,1536,Glucose,5.89,mmol/L,3.9,5.5,2025-12-11
+Hospital_A,1372,Glucose,7.52,mmol/L,3.9,5.5,2025-11-20
+Hospital_A,1754,Glucose,6.01,mmol/L,3.9,5.5,2025-12-13
+Hospital_A,1386,Glucose,5.98,mmol/L,3.9,5.5,2025-02-17
+Hospital_A,1625,Cholesterol,6.34,mmol/L,3.2,5.2,2025-07-10
+Hospital_C,1874,Hemoglobin A1c,6.7,%,4.0,5.6,2025-07-21
+Hospital_B,1842,Hemoglobin A1c,10.3,%,4.0,5.6,2024-05-18
+Hospital_C,1558,Glucose,6.09,mmol/L,3.9,5.5,2024-08-22
+Hospital_C,1767,Glucose,9.85,mmol/L,3.9,5.5,2025-06-06
+Hospital_C,1714,Glucose,7.66,mmol/L,3.9,5.5,2025-11-20
+Hospital_A,1271,Glucose,7.1,mmol/L,3.9,5.5,2025-05-16
+Hospital_C,1556,Hemoglobin A1c,6.2,%,4.0,5.6,2025-03-02
+Hospital_C,1629,Glucose,8.48,mmol/L,3.9,5.5,2025-04-17
+Hospital_A,1986,Hemoglobin A1c,7.4,%,4.0,5.6,2025-09-07
+Hospital_C,1760,Hemoglobin A1c,9.5,%,4.0,5.6,2025-03-30
+Hospital_B,1363,Glucose,7.58,mmol/L,3.9,5.5,2024-06-18
+Hospital_C,1877,Cholesterol,5.02,mmol/L,3.2,5.2,2025-02-05
+Hospital_A,1831,Cholesterol,5.52,mmol/L,3.2,5.2,2024-09-25
+Hospital_C,1040,Hemoglobin A1c,4.9,%,4.0,5.6,2024-09-04
+Hospital_C,1439,Cholesterol,5.0,mmol/L,3.2,5.2,2024-05-04
+Hospital_B,1761,Glucose,6.76,mmol/L,3.9,5.5,2025-09-18
+Hospital_B,1694,Hemoglobin A1c,6.8,%,4.0,5.6,2025-04-02
+Hospital_B,1982,Hemoglobin A1c,9.3,%,4.0,5.6,2025-10-02
+Hospital_A,1783,Cholesterol,4.26,mmol/L,3.2,5.2,2024-12-05
+Hospital_C,1114,Cholesterol,6.44,mmol/L,3.2,5.2,2025-08-09
+Hospital_C,1104,Cholesterol,5.14,mmol/L,3.2,5.2,2025-04-13
+Hospital_B,1127,Cholesterol,4.53,mmol/L,3.2,5.2,2025-07-09
+Hospital_A,1250,Hemoglobin A1c,6.3,%,4.0,5.6,2025-07-02
+Hospital_C,1502,Cholesterol,5.34,mmol/L,3.2,5.2,2024-07-18
+Hospital_C,1673,Glucose,7.9,mmol/L,3.9,5.5,2024-08-31
+Hospital_C,1120,Cholesterol,6.42,mmol/L,3.2,5.2,2025-03-24
+Hospital_A,1415,Glucose,5.06,mmol/L,3.9,5.5,2025-10-23
+Hospital_A,1179,Cholesterol,6.16,mmol/L,3.2,5.2,2024-10-08
+Hospital_C,1031,Cholesterol,6.86,mmol/L,3.2,5.2,2025-09-30
+Hospital_B,1494,Hemoglobin A1c,4.5,%,4.0,5.6,2025-01-05
+Hospital_A,1264,Glucose,8.03,mmol/L,3.9,5.5,2024-06-16
+Hospital_B,1862,Cholesterol,4.19,mmol/L,3.2,5.2,2025-09-20
+Hospital_C,1372,Hemoglobin A1c,5.6,%,4.0,5.6,2024-04-18
+Hospital_A,1070,Hemoglobin A1c,8.6,%,4.0,5.6,2026-03-02
+Hospital_C,1238,Cholesterol,,mmol/L,3.2,5.2,2024-07-10
+Hospital_B,1203,Hemoglobin A1c,4.8,%,4.0,5.6,2024-07-23
+Hospital_A,1250,Glucose,6.23,mmol/L,3.9,5.5,2025-04-16
+Hospital_A,1620,Glucose,7.05,mmol/L,3.9,5.5,2025-05-20
+Hospital_B,1973,Cholesterol,5.63,mmol/L,3.2,5.2,2025-08-23
+Hospital_C,1080,Hemoglobin A1c,7.7,%,4.0,5.6,2025-09-27
+Hospital_B,1283,Glucose,6.0,mmol/L,3.9,5.5,2024-09-19
+Hospital_B,1395,Glucose,7.79,mmol/L,3.9,5.5,2024-10-10
+Hospital_A,1199,Hemoglobin A1c,7.0,%,4.0,5.6,2025-06-06
+Hospital_B,1620,Cholesterol,7.37,mmol/L,3.2,5.2,2025-04-10
+Hospital_A,1001,Glucose,6.5,mmol/L,3.9,5.5,2025-07-28
+Hospital_A,1741,Glucose,7.02,mmol/L,3.9,5.5,2025-10-29
+Hospital_C,1720,Glucose,7.26,mmol/L,3.9,5.5,2024-11-27
+Hospital_A,1877,Cholesterol,5.07,mmol/L,3.2,5.2,2024-05-28
+Hospital_C,1452,Hemoglobin A1c,8.3,%,4.0,5.6,2026-01-11
+Hospital_A,1701,Hemoglobin A1c,,%,4.0,5.6,2026-01-01
+Hospital_A,1182,Glucose,6.86,mmol/L,3.9,5.5,2024-04-28
+Hospital_B,1880,Cholesterol,,mmol/L,3.2,5.2,2024-06-22
+Hospital_B,1318,Cholesterol,4.45,mmol/L,3.2,5.2,2024-04-13
+Hospital_B,1192,Glucose,5.66,mmol/L,3.9,5.5,2025-05-25
+Hospital_B,1262,Hemoglobin A1c,10.1,%,4.0,5.6,2025-10-22
+Hospital_C,1942,Hemoglobin A1c,8.7,%,4.0,5.6,2024-05-11
+Hospital_B,1908,Glucose,9.84,mmol/L,3.9,5.5,2024-08-25
+Hospital_B,1082,Cholesterol,6.41,mmol/L,3.2,5.2,2024-10-12
+Hospital_A,1443,Cholesterol,5.75,mmol/L,3.2,5.2,2025-03-04
+Hospital_B,1470,Glucose,7.29,mmol/L,3.9,5.5,2025-04-26
+Hospital_A,1245,Hemoglobin A1c,9.6,%,4.0,5.6,2026-03-25
+Hospital_B,1359,Glucose,5.4,mmol/L,3.9,5.5,2025-09-11
+Hospital_A,1824,Glucose,7.14,mmol/L,3.9,5.5,2025-04-12
+Hospital_B,1706,Glucose,6.13,mmol/L,3.9,5.5,2024-08-24
+Hospital_B,1627,Glucose,8.15,mmol/L,3.9,5.5,2024-12-08
+Hospital_B,1931,Cholesterol,5.98,mmol/L,3.2,5.2,2025-12-10
+Hospital_C,1993,Glucose,8.66,mmol/L,3.9,5.5,2025-11-24
+Hospital_B,1865,Hemoglobin A1c,7.9,%,4.0,5.6,2024-08-15
+Hospital_A,1525,Hemoglobin A1c,7.9,%,4.0,5.6,2024-11-14
+Hospital_C,1353,Cholesterol,5.83,mmol/L,3.2,5.2,2026-03-06
+Hospital_C,1309,Glucose,8.85,mmol/L,3.9,5.5,2024-12-02
+Hospital_A,1268,Hemoglobin A1c,5.2,%,4.0,5.6,2025-04-06
+Hospital_A,1456,Hemoglobin A1c,9.1,%,4.0,5.6,2025-02-13
+Hospital_C,1673,Hemoglobin A1c,8.9,%,4.0,5.6,2025-04-29
+Hospital_B,1573,Hemoglobin A1c,5.7,%,4.0,5.6,2025-11-20
+Hospital_C,1934,Hemoglobin A1c,5.7,%,4.0,5.6,2024-04-25
+Hospital_C,1522,Hemoglobin A1c,9.8,%,4.0,5.6,2025-04-11
+Hospital_B,1712,Glucose,,mmol/L,3.9,5.5,2025-07-13
+Hospital_C,1166,Cholesterol,4.98,mmol/L,3.2,5.2,2025-05-10
+Hospital_B,1179,Glucose,7.13,mmol/L,3.9,5.5,2024-08-26
+Hospital_A,1674,Cholesterol,4.95,mmol/L,3.2,5.2,2026-01-23
+Hospital_B,1764,Hemoglobin A1c,7.1,%,4.0,5.6,2025-09-05
+Hospital_C,1665,Cholesterol,7.68,mmol/L,3.2,5.2,2026-03-20
+Hospital_B,1871,Cholesterol,5.18,mmol/L,3.2,5.2,2026-02-13
+Hospital_B,1683,Hemoglobin A1c,8.7,%,4.0,5.6,2025-04-22
+Hospital_C,1419,Cholesterol,5.72,mmol/L,3.2,5.2,2024-08-22
+Hospital_B,1047,Glucose,3.96,mmol/L,3.9,5.5,2024-05-09
+Hospital_C,1038,Cholesterol,6.2,mmol/L,3.2,5.2,2024-10-08
+Hospital_A,1808,Hemoglobin A1c,6.7,%,4.0,5.6,2025-04-03
+Hospital_A,1037,Hemoglobin A1c,,%,4.0,5.6,2024-11-18
+Hospital_A,1094,Glucose,6.8,mmol/L,3.9,5.5,2025-12-28
+Hospital_B,1962,Hemoglobin A1c,6.8,%,4.0,5.6,2024-06-01
+Hospital_A,1346,Hemoglobin A1c,7.1,%,4.0,5.6,2026-03-22
+Hospital_A,1701,Hemoglobin A1c,9.4,%,4.0,5.6,2025-08-21
+Hospital_A,1240,Cholesterol,5.64,mmol/L,3.2,5.2,2025-09-27
+Hospital_C,1684,Glucose,5.45,mmol/L,3.9,5.5,2025-04-04
+Hospital_C,1690,Glucose,8.94,mmol/L,3.9,5.5,2024-07-19
+Hospital_B,1689,Cholesterol,5.94,mmol/L,3.2,5.2,2025-09-13
+Hospital_A,1290,Cholesterol,,mmol/L,3.2,5.2,2025-12-06
+Hospital_A,1696,Glucose,4.44,mmol/L,3.9,5.5,2025-11-28
+Hospital_B,1352,Glucose,6.03,mmol/L,3.9,5.5,2026-02-08
+Hospital_C,1387,Hemoglobin A1c,7.6,%,4.0,5.6,2025-01-06
+Hospital_A,1570,Glucose,9.27,mmol/L,3.9,5.5,2024-09-06
+Hospital_B,1699,Hemoglobin A1c,8.6,%,4.0,5.6,2025-04-18
+Hospital_C,1743,Cholesterol,4.3,mmol/L,3.2,5.2,2025-12-06
+Hospital_C,1092,Hemoglobin A1c,7.2,%,4.0,5.6,2024-07-23
+Hospital_A,1523,Cholesterol,6.82,mmol/L,3.2,5.2,2025-05-31
+Hospital_B,1693,Cholesterol,6.81,mmol/L,3.2,5.2,2024-08-25
+Hospital_B,1825,Glucose,7.09,mmol/L,3.9,5.5,2025-07-01
+Hospital_C,1802,Cholesterol,5.32,mmol/L,3.2,5.2,2025-05-09
+Hospital_A,1935,Hemoglobin A1c,9.1,%,4.0,5.6,2025-11-14
+Hospital_B,1502,Cholesterol,4.16,mmol/L,3.2,5.2,2025-06-04
+Hospital_B,1109,Glucose,7.4,mmol/L,3.9,5.5,2025-07-02
+Hospital_A,1018,Cholesterol,4.76,mmol/L,3.2,5.2,2026-02-07
+Hospital_B,1389,Glucose,6.79,mmol/L,3.9,5.5,2025-06-10
+Hospital_B,1638,Hemoglobin A1c,5.9,%,4.0,5.6,2025-07-26
+Hospital_A,1645,Cholesterol,6.91,mmol/L,3.2,5.2,2026-01-25
+Hospital_A,1016,Hemoglobin A1c,5.5,%,4.0,5.6,2025-01-06
+Hospital_A,1340,Hemoglobin A1c,8.5,%,4.0,5.6,2025-11-28
+Hospital_A,1429,Hemoglobin A1c,6.2,%,4.0,5.6,2025-05-09
+Hospital_B,1009,Hemoglobin A1c,9.3,%,4.0,5.6,2024-12-06
+Hospital_B,1702,Glucose,4.34,mmol/L,3.9,5.5,2025-03-13
+Hospital_C,1610,Glucose,8.63,mmol/L,3.9,5.5,2024-06-10
+Hospital_A,1935,Hemoglobin A1c,9.1,%,4.0,5.6,2025-09-14
+Hospital_B,1621,Glucose,,mmol/L,3.9,5.5,2024-06-03
+Hospital_C,1653,Glucose,7.91,mmol/L,3.9,5.5,2025-10-29
+Hospital_C,1511,Hemoglobin A1c,9.0,%,4.0,5.6,2025-11-28
+Hospital_B,1904,Cholesterol,,mmol/L,3.2,5.2,2026-03-19
+Hospital_A,1649,Hemoglobin A1c,4.7,%,4.0,5.6,2025-12-01
+Hospital_B,1439,Cholesterol,5.56,mmol/L,3.2,5.2,2025-01-26
+Hospital_A,1912,Cholesterol,4.4,mmol/L,3.2,5.2,2025-07-22
+Hospital_C,1834,Glucose,500.0,mmol/L,3.9,5.5,2024-11-16
+Hospital_C,1678,Hemoglobin A1c,6.4,%,4.0,5.6,2026-02-07
+Hospital_A,1404,Glucose,5.82,mmol/L,3.9,5.5,2025-01-18
+Hospital_C,1120,Glucose,8.34,mmol/L,3.9,5.5,2025-12-23
+Hospital_A,1997,Glucose,7.9,mmol/L,3.9,5.5,2024-03-28
+Hospital_C,1004,Hemoglobin A1c,9.5,%,4.0,5.6,2024-08-07
+Hospital_B,1874,Hemoglobin A1c,5.6,%,4.0,5.6,2025-11-23
+Hospital_B,1714,Glucose,500.0,mmol/L,3.9,5.5,2025-07-02
+Hospital_B,1827,Hemoglobin A1c,4.5,%,4.0,5.6,2024-07-11
+Hospital_A,1275,Cholesterol,,mmol/L,3.2,5.2,2025-03-23
+Hospital_C,1607,Glucose,9.67,mmol/L,3.9,5.5,2025-06-16
+Hospital_C,1314,Glucose,6.45,mmol/L,3.9,5.5,2024-11-04
+Hospital_B,1161,Hemoglobin A1c,5.9,%,4.0,5.6,2025-06-19
+Hospital_C,1439,Hemoglobin A1c,10.5,%,4.0,5.6,2025-08-06
+Hospital_C,1453,Hemoglobin A1c,8.1,%,4.0,5.6,2024-04-27
+Hospital_A,1308,Hemoglobin A1c,8.5,%,4.0,5.6,2025-08-06
+Hospital_C,1623,Glucose,9.78,mmol/L,3.9,5.5,2024-03-27
+Hospital_B,1029,Hemoglobin A1c,6.6,%,4.0,5.6,2024-03-31
+Hospital_B,1056,Hemoglobin A1c,4.9,%,4.0,5.6,2024-07-27
+Hospital_C,1910,Cholesterol,6.46,mmol/L,3.2,5.2,2024-07-04
+Hospital_A,1406,Cholesterol,3.95,mmol/L,3.2,5.2,2026-03-08
+Hospital_A,1008,Cholesterol,7.71,mmol/L,3.2,5.2,2025-11-28
+Hospital_A,1945,Hemoglobin A1c,10.1,%,4.0,5.6,2025-06-09
+Hospital_A,1275,Hemoglobin A1c,8.8,%,4.0,5.6,2025-03-06
+Hospital_B,1769,Hemoglobin A1c,6.4,%,4.0,5.6,2024-05-06
+Hospital_A,1800,Cholesterol,,mmol/L,3.2,5.2,2025-06-13
+Hospital_C,1475,Glucose,7.1,mmol/L,3.9,5.5,2024-08-02
+Hospital_C,1952,Glucose,5.32,mmol/L,3.9,5.5,2026-02-19
+Hospital_A,1343,Glucose,5.6,mmol/L,3.9,5.5,2024-11-27
+Hospital_B,1237,Glucose,9.47,mmol/L,3.9,5.5,2024-09-03
+Hospital_A,1194,Hemoglobin A1c,9.8,%,4.0,5.6,2025-06-21
+Hospital_A,1686,Glucose,5.63,mmol/L,3.9,5.5,2024-06-24
+Hospital_B,1352,Cholesterol,,mmol/L,3.2,5.2,2025-01-18
+Hospital_A,1708,Cholesterol,4.28,mmol/L,3.2,5.2,2025-11-04
+Hospital_A,1276,Glucose,6.11,mmol/L,3.9,5.5,2024-09-21
+Hospital_B,1901,Cholesterol,6.03,mmol/L,3.2,5.2,2025-12-26
+Hospital_B,1432,Glucose,9.4,mmol/L,3.9,5.5,2025-10-16
+Hospital_A,1158,Glucose,,mmol/L,3.9,5.5,2025-10-29
+Hospital_A,1139,Cholesterol,7.6,mmol/L,3.2,5.2,2024-03-28
+Hospital_B,1179,Cholesterol,4.65,mmol/L,3.2,5.2,2025-09-12
+Hospital_A,1850,Glucose,5.98,mmol/L,3.9,5.5,2026-02-11
+Hospital_B,1567,Cholesterol,4.83,mmol/L,3.2,5.2,2024-04-20
+Hospital_C,1559,Glucose,9.27,mmol/L,3.9,5.5,2026-03-05
+Hospital_C,1924,Cholesterol,4.52,mmol/L,3.2,5.2,2025-11-29
+Hospital_C,1646,Cholesterol,7.66,mmol/L,3.2,5.2,2025-01-21
+Hospital_C,1349,Hemoglobin A1c,8.4,%,4.0,5.6,2025-12-21
+Hospital_B,1965,Cholesterol,6.97,mmol/L,3.2,5.2,2025-08-30
+Hospital_C,1822,Cholesterol,4.05,mmol/L,3.2,5.2,2024-10-29
+Hospital_A,1668,Glucose,7.16,mmol/L,3.9,5.5,2024-12-03
+Hospital_A,1717,Hemoglobin A1c,9.8,%,4.0,5.6,2024-07-17
+Hospital_C,1415,Hemoglobin A1c,9.3,%,4.0,5.6,2024-10-23
+Hospital_A,1419,Cholesterol,6.44,mmol/L,3.2,5.2,2026-02-28
+Hospital_B,1356,Glucose,8.63,mmol/L,3.9,5.5,2025-12-02
+Hospital_B,1619,Cholesterol,7.64,mmol/L,3.2,5.2,2026-01-15
+Hospital_C,1570,Glucose,,mmol/L,3.9,5.5,2024-12-18
+Hospital_A,1547,Glucose,7.76,mmol/L,3.9,5.5,2025-09-05
+Hospital_C,1402,Hemoglobin A1c,5.8,%,4.0,5.6,2025-09-19
+Hospital_C,1398,Glucose,4.36,mmol/L,3.9,5.5,2024-04-28
+Hospital_B,1262,Cholesterol,3.97,mmol/L,3.2,5.2,2026-03-10
+Hospital_C,1941,Glucose,9.4,mmol/L,3.9,5.5,2024-09-11
+Hospital_A,1938,Cholesterol,5.91,mmol/L,3.2,5.2,2025-12-28
+Hospital_A,1884,Hemoglobin A1c,8.5,%,4.0,5.6,2025-02-26
+Hospital_B,1673,Hemoglobin A1c,6.1,%,4.0,5.6,2025-09-15
+Hospital_B,1146,Hemoglobin A1c,9.0,%,4.0,5.6,2024-09-28
+Hospital_C,1543,Glucose,6.66,mmol/L,3.9,5.5,2024-12-18
+Hospital_C,1344,Cholesterol,6.63,mmol/L,3.2,5.2,2025-05-03
+Hospital_A,1676,Hemoglobin A1c,5.8,%,4.0,5.6,2024-08-22
+Hospital_C,1454,Hemoglobin A1c,6.3,%,4.0,5.6,2025-10-18
+Hospital_C,1924,Cholesterol,6.44,mmol/L,3.2,5.2,2025-11-06
+Hospital_C,1697,Glucose,9.41,mmol/L,3.9,5.5,2024-10-22
+Hospital_C,1118,Hemoglobin A1c,8.0,%,4.0,5.6,2025-07-11
+Hospital_B,1370,Glucose,7.87,mmol/L,3.9,5.5,2024-07-01
+Hospital_C,1683,Cholesterol,6.75,mmol/L,3.2,5.2,2025-05-02
+Hospital_A,1210,Cholesterol,5.38,mmol/L,3.2,5.2,2024-07-31
+Hospital_A,1985,Glucose,6.19,mmol/L,3.9,5.5,2024-11-25
+Hospital_A,1593,Hemoglobin A1c,5.0,%,4.0,5.6,2025-11-03
+Hospital_B,1189,Hemoglobin A1c,6.5,%,4.0,5.6,2024-05-28
+Hospital_A,1758,Cholesterol,6.93,mmol/L,3.2,5.2,2026-02-20
+Hospital_B,1313,Hemoglobin A1c,5.5,%,4.0,5.6,2024-09-08
+Hospital_A,1154,Cholesterol,7.15,mmol/L,3.2,5.2,2025-02-13
+Hospital_A,1508,Hemoglobin A1c,4.8,%,4.0,5.6,2025-06-25
+Hospital_C,1231,Hemoglobin A1c,8.4,%,4.0,5.6,2025-05-05
+Hospital_B,1354,Glucose,9.62,mmol/L,3.9,5.5,2025-04-01
+Hospital_C,1469,Glucose,4.7,mmol/L,3.9,5.5,2024-08-24
+Hospital_B,1020,Hemoglobin A1c,5.7,%,4.0,5.6,2025-04-23
+Hospital_C,1637,Hemoglobin A1c,,%,4.0,5.6,2026-01-01
+Hospital_A,1442,Cholesterol,4.73,mmol/L,3.2,5.2,2025-11-03
+Hospital_C,1691,Hemoglobin A1c,7.4,%,4.0,5.6,2025-08-11
+Hospital_C,1661,Glucose,7.33,mmol/L,3.9,5.5,2025-04-02
+Hospital_B,1323,Glucose,7.16,mmol/L,3.9,5.5,2025-04-15
+Hospital_A,1779,Glucose,6.88,mmol/L,3.9,5.5,2026-03-16
+Hospital_A,1506,Cholesterol,5.62,mmol/L,3.2,5.2,2025-01-23
+Hospital_A,1714,Hemoglobin A1c,5.4,%,4.0,5.6,2025-04-02
+Hospital_C,1341,Cholesterol,4.32,mmol/L,3.2,5.2,2025-01-22
+Hospital_C,1922,Cholesterol,4.35,mmol/L,3.2,5.2,2025-12-08
+Hospital_B,1675,Hemoglobin A1c,7.7,%,4.0,5.6,2024-11-11
+Hospital_C,1470,Cholesterol,4.18,mmol/L,3.2,5.2,2025-07-02
+Hospital_A,1502,Cholesterol,5.11,mmol/L,3.2,5.2,2025-06-10
+Hospital_C,1881,Hemoglobin A1c,5.7,%,4.0,5.6,2024-11-02
+Hospital_A,1464,Glucose,8.93,mmol/L,3.9,5.5,2024-04-07
+Hospital_A,1469,Cholesterol,4.16,mmol/L,3.2,5.2,2024-10-02
+Hospital_C,1602,Glucose,7.91,mmol/L,3.9,5.5,2026-03-26
+Hospital_C,1172,Cholesterol,4.54,mmol/L,3.2,5.2,2024-12-07
+Hospital_B,1281,Glucose,9.45,mmol/L,3.9,5.5,2024-05-08
+Hospital_C,1116,Hemoglobin A1c,7.4,%,4.0,5.6,2024-08-02
+Hospital_C,1620,Hemoglobin A1c,9.7,%,4.0,5.6,2024-11-27
+Hospital_A,1753,Glucose,,mmol/L,3.9,5.5,2024-05-21
+Hospital_B,1062,Hemoglobin A1c,,%,4.0,5.6,2025-07-27
+Hospital_A,1577,Hemoglobin A1c,6.4,%,4.0,5.6,2025-03-11
+Hospital_C,1562,Glucose,5.42,mmol/L,3.9,5.5,2025-07-29
+Hospital_B,1295,Glucose,9.56,mmol/L,3.9,5.5,2025-07-12
+Hospital_B,1807,Hemoglobin A1c,4.7,%,4.0,5.6,2025-03-27
+Hospital_B,1493,Hemoglobin A1c,10.3,%,4.0,5.6,2024-07-05
+Hospital_C,1359,Cholesterol,4.52,mmol/L,3.2,5.2,2025-12-10
+Hospital_C,1480,Hemoglobin A1c,,%,4.0,5.6,2024-05-20
+Hospital_A,1057,Glucose,4.01,mmol/L,3.9,5.5,2025-12-15
+Hospital_C,1049,Glucose,9.04,mmol/L,3.9,5.5,2024-07-18
+Hospital_C,1681,Cholesterol,6.65,mmol/L,3.2,5.2,2025-10-24
+Hospital_C,1710,Glucose,8.41,mmol/L,3.9,5.5,2025-07-23
+Hospital_B,1010,Glucose,7.28,mmol/L,3.9,5.5,2025-06-09
+Hospital_A,1139,Cholesterol,4.29,mmol/L,3.2,5.2,2025-01-09
+Hospital_A,1367,Hemoglobin A1c,9.0,%,4.0,5.6,2024-04-27
+Hospital_C,1893,Glucose,9.63,mmol/L,3.9,5.5,2025-12-06
+Hospital_B,1352,Glucose,7.19,mmol/L,3.9,5.5,2025-02-17
+Hospital_B,1942,Hemoglobin A1c,5.5,%,4.0,5.6,2025-04-03
+Hospital_C,1833,Glucose,4.25,mmol/L,3.9,5.5,2026-03-19
+Hospital_B,1160,Glucose,6.81,mmol/L,3.9,5.5,2024-07-05
+Hospital_A,1146,Cholesterol,,mmol/L,3.2,5.2,2025-09-17
+Hospital_B,1404,Cholesterol,6.06,mmol/L,3.2,5.2,2025-05-22
+Hospital_B,1529,Glucose,5.39,mmol/L,3.9,5.5,2024-11-23
+Hospital_C,1416,Glucose,8.92,mmol/L,3.9,5.5,2024-11-21
+Hospital_B,1910,Hemoglobin A1c,9.4,%,4.0,5.6,2025-10-09
+Hospital_C,1913,Cholesterol,7.36,mmol/L,3.2,5.2,2026-01-02
+Hospital_B,1359,Cholesterol,7.45,mmol/L,3.2,5.2,2024-09-22
+Hospital_C,1871,Cholesterol,4.59,mmol/L,3.2,5.2,2024-05-02
+Hospital_B,1847,Cholesterol,4.75,mmol/L,3.2,5.2,2026-03-19
+Hospital_A,1048,Glucose,4.27,mmol/L,3.9,5.5,2025-09-24
+Hospital_C,1644,Cholesterol,7.68,mmol/L,3.2,5.2,2025-12-04
+Hospital_A,1981,Cholesterol,4.68,mmol/L,3.2,5.2,2025-09-15
+Hospital_C,1467,Hemoglobin A1c,9.4,%,4.0,5.6,2024-09-03
+Hospital_A,1537,Hemoglobin A1c,,%,4.0,5.6,2024-12-25
+Hospital_B,1561,Hemoglobin A1c,8.0,%,4.0,5.6,2025-03-23
+Hospital_B,1446,Cholesterol,5.13,mmol/L,3.2,5.2,2024-12-04
+Hospital_A,1594,Cholesterol,6.61,mmol/L,3.2,5.2,2025-09-30
+Hospital_A,1383,Glucose,5.1,mmol/L,3.9,5.5,2024-04-09
+Hospital_B,1846,Cholesterol,6.54,mmol/L,3.2,5.2,2024-08-15
+Hospital_A,1035,Cholesterol,7.23,mmol/L,3.2,5.2,2026-03-02
+Hospital_A,1871,Glucose,,mmol/L,3.9,5.5,2024-08-31
+Hospital_B,1788,Glucose,8.05,mmol/L,3.9,5.5,2024-04-22
+Hospital_A,1341,Glucose,9.87,mmol/L,3.9,5.5,2026-03-01
+Hospital_A,1665,Glucose,4.52,mmol/L,3.9,5.5,2025-06-26
+Hospital_B,1581,Hemoglobin A1c,9.6,%,4.0,5.6,2025-09-17
+Hospital_C,1490,Glucose,9.59,mmol/L,3.9,5.5,2025-08-04
+Hospital_C,1277,Glucose,4.3,mmol/L,3.9,5.5,2026-03-01
+Hospital_C,1439,Hemoglobin A1c,5.7,%,4.0,5.6,2024-07-05
+Hospital_C,1671,Cholesterol,7.55,mmol/L,3.2,5.2,2025-07-11
+Hospital_C,1027,Cholesterol,4.73,mmol/L,3.2,5.2,2024-07-10
+Hospital_C,1906,Hemoglobin A1c,,%,4.0,5.6,2024-05-16
+Hospital_A,1216,Glucose,8.45,mmol/L,3.9,5.5,2026-01-23
+Hospital_C,1826,Glucose,9.45,mmol/L,3.9,5.5,2025-06-07
+Hospital_B,1487,Cholesterol,7.71,mmol/L,3.2,5.2,2024-04-02
+Hospital_B,1360,Cholesterol,4.85,mmol/L,3.2,5.2,2025-02-20
+Hospital_B,1382,Hemoglobin A1c,,%,4.0,5.6,2024-12-26
+Hospital_C,1713,Glucose,6.97,mmol/L,3.9,5.5,2024-04-12
+Hospital_A,1096,Glucose,6.05,mmol/L,3.9,5.5,2024-11-20
+Hospital_A,1838,Glucose,8.99,mmol/L,3.9,5.5,2025-07-13
+Hospital_A,1426,Cholesterol,6.16,mmol/L,3.2,5.2,2024-09-03
+Hospital_C,1776,Cholesterol,7.66,mmol/L,3.2,5.2,2025-05-21
+Hospital_B,1407,Glucose,4.22,mmol/L,3.9,5.5,2024-06-16
+Hospital_C,1653,Glucose,4.42,mmol/L,3.9,5.5,2024-06-24
+Hospital_C,1345,Cholesterol,,mmol/L,3.2,5.2,2024-07-29
+Hospital_A,1629,Glucose,6.09,mmol/L,3.9,5.5,2024-08-25
+Hospital_C,1694,Hemoglobin A1c,10.4,%,4.0,5.6,2024-12-23
+Hospital_C,1696,Cholesterol,7.66,mmol/L,3.2,5.2,2024-11-19
+Hospital_A,1069,Glucose,7.03,mmol/L,3.9,5.5,2025-10-15
+Hospital_C,1075,Glucose,6.21,mmol/L,3.9,5.5,2025-01-24
+Hospital_C,1072,Cholesterol,5.46,mmol/L,3.2,5.2,2025-07-24
+Hospital_B,1215,Cholesterol,5.25,mmol/L,3.2,5.2,2026-02-21
+Hospital_B,1512,Cholesterol,,mmol/L,3.2,5.2,2024-07-19
+Hospital_B,1689,Hemoglobin A1c,6.0,%,4.0,5.6,2026-01-03
+Hospital_C,1446,Glucose,6.11,mmol/L,3.9,5.5,2024-08-14
+Hospital_C,1513,Hemoglobin A1c,,%,4.0,5.6,2024-08-31
+Hospital_C,1361,Glucose,5.03,mmol/L,3.9,5.5,2025-05-19
+Hospital_B,1956,Cholesterol,4.98,mmol/L,3.2,5.2,2024-10-17
+Hospital_A,1335,Hemoglobin A1c,9.9,%,4.0,5.6,2025-06-27
+Hospital_C,1038,Cholesterol,6.25,mmol/L,3.2,5.2,2026-01-06
+Hospital_B,1551,Cholesterol,5.77,mmol/L,3.2,5.2,2025-08-31
+Hospital_C,1095,Hemoglobin A1c,8.4,%,4.0,5.6,2025-10-04
+Hospital_C,1216,Glucose,7.24,mmol/L,3.9,5.5,2024-10-23
+Hospital_C,1268,Glucose,,mmol/L,3.9,5.5,2025-05-25
+Hospital_B,1047,Cholesterol,4.42,mmol/L,3.2,5.2,2026-01-28
+Hospital_B,1855,Hemoglobin A1c,9.3,%,4.0,5.6,2025-01-12
+Hospital_C,1484,Hemoglobin A1c,8.9,%,4.0,5.6,2025-04-30
+Hospital_C,1688,Cholesterol,4.13,mmol/L,3.2,5.2,2024-10-16
+Hospital_C,1357,Cholesterol,6.02,mmol/L,3.2,5.2,2025-03-12
+Hospital_B,1728,Hemoglobin A1c,7.1,%,4.0,5.6,2024-07-01
+Hospital_B,1820,Cholesterol,7.2,mmol/L,3.2,5.2,2025-01-19
+Hospital_C,1902,Hemoglobin A1c,5.2,%,4.0,5.6,2024-10-04
+Hospital_B,1022,Glucose,7.39,mmol/L,3.9,5.5,2024-12-24
+Hospital_B,1994,Cholesterol,7.14,mmol/L,3.2,5.2,2025-05-24
+Hospital_C,1156,Cholesterol,4.88,mmol/L,3.2,5.2,2024-04-26
+Hospital_A,1673,Glucose,7.36,mmol/L,3.9,5.5,2025-01-16
+Hospital_B,1715,Glucose,4.62,mmol/L,3.9,5.5,2026-03-17
+Hospital_B,1152,Glucose,9.68,mmol/L,3.9,5.5,2025-07-29
+Hospital_C,1484,Cholesterol,4.98,mmol/L,3.2,5.2,2025-08-18
+Hospital_C,1023,Hemoglobin A1c,7.3,%,4.0,5.6,2026-01-13
+Hospital_C,1563,Hemoglobin A1c,6.1,%,4.0,5.6,2024-12-24
+Hospital_B,1903,Cholesterol,4.85,mmol/L,3.2,5.2,2024-09-07
+Hospital_A,1271,Hemoglobin A1c,5.9,%,4.0,5.6,2024-04-02
+Hospital_C,1894,Glucose,7.45,mmol/L,3.9,5.5,2025-06-28
+Hospital_C,1556,Cholesterol,7.18,mmol/L,3.2,5.2,2025-03-08
+Hospital_C,1272,Cholesterol,,mmol/L,3.2,5.2,2024-05-23
+Hospital_A,1023,Hemoglobin A1c,8.6,%,4.0,5.6,2024-11-23
+Hospital_C,1236,Hemoglobin A1c,7.3,%,4.0,5.6,2025-12-19
+Hospital_A,1480,Hemoglobin A1c,7.9,%,4.0,5.6,2025-10-17
+Hospital_C,1331,Glucose,5.97,mmol/L,3.9,5.5,2025-04-15
+Hospital_A,1341,Glucose,7.13,mmol/L,3.9,5.5,2025-12-06
+Hospital_A,1980,Hemoglobin A1c,8.2,%,4.0,5.6,2026-01-05
+Hospital_B,1356,Hemoglobin A1c,8.5,%,4.0,5.6,2025-07-23
+Hospital_A,1961,Glucose,9.33,mmol/L,3.9,5.5,2025-01-09
+Hospital_C,1520,Hemoglobin A1c,8.0,%,4.0,5.6,2026-01-01
+Hospital_A,1893,Hemoglobin A1c,9.7,%,4.0,5.6,2025-04-10
+Hospital_A,1657,Hemoglobin A1c,5.5,%,4.0,5.6,2025-04-19
+Hospital_B,1656,Cholesterol,7.52,mmol/L,3.2,5.2,2026-01-12
+Hospital_B,1516,Hemoglobin A1c,6.1,%,4.0,5.6,2025-06-03
+Hospital_C,1786,Hemoglobin A1c,5.7,%,4.0,5.6,2025-03-06
+Hospital_A,1429,Hemoglobin A1c,9.1,%,4.0,5.6,2024-03-29
+Hospital_B,1679,Hemoglobin A1c,7.3,%,4.0,5.6,2025-09-09
+Hospital_A,1613,Cholesterol,6.07,mmol/L,3.2,5.2,2026-01-01
+Hospital_C,1981,Cholesterol,4.28,mmol/L,3.2,5.2,2025-01-06
+Hospital_A,1621,Hemoglobin A1c,8.2,%,4.0,5.6,2025-08-12
+Hospital_B,1039,Cholesterol,4.64,mmol/L,3.2,5.2,2024-06-21
+Hospital_A,1592,Glucose,,mmol/L,3.9,5.5,2025-08-07
+Hospital_A,1849,Hemoglobin A1c,7.5,%,4.0,5.6,2025-04-05
+Hospital_A,1061,Glucose,6.57,mmol/L,3.9,5.5,2025-03-20
+Hospital_B,1220,Hemoglobin A1c,5.1,%,4.0,5.6,2024-06-07
+Hospital_A,1721,Hemoglobin A1c,10.2,%,4.0,5.6,2025-12-27
+Hospital_C,1029,Glucose,9.0,mmol/L,3.9,5.5,2024-08-19
+Hospital_C,1575,Hemoglobin A1c,7.0,%,4.0,5.6,2024-06-28
+Hospital_B,1527,Cholesterol,4.82,mmol/L,3.2,5.2,2025-05-01
+Hospital_C,1422,Hemoglobin A1c,6.8,%,4.0,5.6,2024-10-15
+Hospital_C,1971,Hemoglobin A1c,8.4,%,4.0,5.6,2025-09-28
+Hospital_C,1462,Glucose,4.99,mmol/L,3.9,5.5,2025-04-29
+Hospital_B,1802,Hemoglobin A1c,6.6,%,4.0,5.6,2024-12-28
+Hospital_B,1188,Glucose,4.59,mmol/L,3.9,5.5,2024-03-30
+Hospital_A,1095,Hemoglobin A1c,9.9,%,4.0,5.6,2026-02-25
+Hospital_C,1866,Cholesterol,4.59,mmol/L,3.2,5.2,2025-01-12
+Hospital_A,1955,Glucose,5.52,mmol/L,3.9,5.5,2026-02-14
+Hospital_B,1206,Hemoglobin A1c,7.4,%,4.0,5.6,2025-11-10
+Hospital_A,1002,Hemoglobin A1c,6.2,%,4.0,5.6,2025-01-13
+Hospital_A,1089,Hemoglobin A1c,7.0,%,4.0,5.6,2026-01-08
+Hospital_C,1546,Glucose,4.4,mmol/L,3.9,5.5,2025-10-22
+Hospital_A,1979,Hemoglobin A1c,8.2,%,4.0,5.6,2026-02-03
+Hospital_A,1248,Glucose,4.67,mmol/L,3.9,5.5,2025-01-03
+Hospital_B,1996,Glucose,9.87,mmol/L,3.9,5.5,2025-04-06
+Hospital_A,1515,Hemoglobin A1c,8.0,%,4.0,5.6,2024-09-19
+Hospital_B,1372,Cholesterol,7.67,mmol/L,3.2,5.2,2024-08-04
+Hospital_C,1408,Hemoglobin A1c,10.4,%,4.0,5.6,2024-06-20
+Hospital_A,1325,Glucose,8.57,mmol/L,3.9,5.5,2024-08-28
+Hospital_A,1405,Cholesterol,5.54,mmol/L,3.2,5.2,2024-11-15
+Hospital_A,1242,Hemoglobin A1c,7.8,%,4.0,5.6,2024-10-18
+Hospital_C,1401,Hemoglobin A1c,10.4,%,4.0,5.6,2025-04-19
+Hospital_B,1678,Hemoglobin A1c,6.4,%,4.0,5.6,2025-01-13
+Hospital_C,1390,Cholesterol,5.46,mmol/L,3.2,5.2,2026-03-22
+Hospital_B,1969,Glucose,6.93,mmol/L,3.9,5.5,2024-10-07
+Hospital_C,1938,Hemoglobin A1c,7.6,%,4.0,5.6,2026-02-22
+Hospital_C,1810,Glucose,,mmol/L,3.9,5.5,2025-08-18
+Hospital_A,1144,Glucose,9.67,mmol/L,3.9,5.5,2024-12-05
+Hospital_B,1553,Glucose,,mmol/L,3.9,5.5,2025-01-19
+Hospital_B,1396,Glucose,7.19,mmol/L,3.9,5.5,2026-01-09
+Hospital_C,1020,Cholesterol,3.9,mmol/L,3.2,5.2,2024-04-23
+Hospital_C,1603,Cholesterol,7.68,mmol/L,3.2,5.2,2024-05-04
+Hospital_A,1647,Glucose,6.68,mmol/L,3.9,5.5,2024-10-06
+Hospital_C,1802,Cholesterol,4.48,mmol/L,3.2,5.2,2024-08-30
+Hospital_C,1916,Cholesterol,6.84,mmol/L,3.2,5.2,2025-02-11
+Hospital_B,1751,Cholesterol,,mmol/L,3.2,5.2,2024-10-20
+Hospital_B,1721,Cholesterol,5.18,mmol/L,3.2,5.2,2024-07-19
+Hospital_A,1992,Glucose,5.96,mmol/L,3.9,5.5,2025-08-12
+Hospital_B,1433,Hemoglobin A1c,6.4,%,4.0,5.6,2025-03-23
+Hospital_C,1021,Hemoglobin A1c,4.6,%,4.0,5.6,2026-01-03
+Hospital_A,1847,Cholesterol,,mmol/L,3.2,5.2,2025-01-18
+Hospital_A,1502,Hemoglobin A1c,10.0,%,4.0,5.6,2025-02-24
+Hospital_C,1957,Cholesterol,6.65,mmol/L,3.2,5.2,2026-02-02
+Hospital_B,1229,Cholesterol,6.8,mmol/L,3.2,5.2,2025-05-20
+Hospital_C,1156,Hemoglobin A1c,8.2,%,4.0,5.6,2025-07-14
+Hospital_C,1787,Hemoglobin A1c,10.0,%,4.0,5.6,2026-01-18
+Hospital_B,1545,Hemoglobin A1c,4.9,%,4.0,5.6,2025-10-15
+Hospital_A,1441,Cholesterol,4.49,mmol/L,3.2,5.2,2024-04-22
+Hospital_C,1706,Cholesterol,5.5,mmol/L,3.2,5.2,2024-06-06
+Hospital_C,1681,Glucose,8.05,mmol/L,3.9,5.5,2025-11-15
+Hospital_A,1867,Cholesterol,6.95,mmol/L,3.2,5.2,2025-10-13
+Hospital_B,1433,Hemoglobin A1c,7.6,%,4.0,5.6,2025-02-18
+Hospital_B,1352,Cholesterol,5.39,mmol/L,3.2,5.2,2024-05-09
+Hospital_C,1057,Cholesterol,,mmol/L,3.2,5.2,2025-07-08
+Hospital_C,1234,Glucose,8.8,mmol/L,3.9,5.5,2026-01-10
+Hospital_A,1301,Hemoglobin A1c,8.2,%,4.0,5.6,2025-09-20
+Hospital_B,1067,Cholesterol,3.9,mmol/L,3.2,5.2,2025-10-21
+Hospital_B,1659,Glucose,,mmol/L,3.9,5.5,2025-01-02
+Hospital_C,1067,Hemoglobin A1c,8.9,%,4.0,5.6,2025-02-05
+Hospital_C,1801,Glucose,5.04,mmol/L,3.9,5.5,2025-03-04
+Hospital_C,1417,Hemoglobin A1c,9.6,%,4.0,5.6,2025-06-04
+Hospital_B,1362,Hemoglobin A1c,10.3,%,4.0,5.6,2025-08-18
+Hospital_C,1677,Glucose,7.22,mmol/L,3.9,5.5,2025-10-02
+Hospital_C,1429,Glucose,4.97,mmol/L,3.9,5.5,2025-08-27
+Hospital_A,1451,Hemoglobin A1c,4.8,%,4.0,5.6,2025-06-07
+Hospital_A,1904,Glucose,8.63,mmol/L,3.9,5.5,2024-11-27
+Hospital_B,1062,Glucose,4.67,mmol/L,3.9,5.5,2025-01-22
+Hospital_C,1295,Cholesterol,4.2,mmol/L,3.2,5.2,2024-06-07
+Hospital_C,1870,Glucose,9.3,mmol/L,3.9,5.5,2025-08-15
+Hospital_A,1338,Glucose,,mmol/L,3.9,5.5,2025-10-14
+Hospital_A,1318,Glucose,5.93,mmol/L,3.9,5.5,2024-09-06
+Hospital_B,1713,Cholesterol,4.72,mmol/L,3.2,5.2,2026-02-09
+Hospital_B,1696,Cholesterol,7.28,mmol/L,3.2,5.2,2026-03-03
+Hospital_C,1434,Glucose,7.22,mmol/L,3.9,5.5,2025-04-17
+Hospital_C,1335,Cholesterol,6.34,mmol/L,3.2,5.2,2026-03-10
+Hospital_B,1649,Hemoglobin A1c,10.5,%,4.0,5.6,2024-06-11
+Hospital_B,1793,Cholesterol,6.83,mmol/L,3.2,5.2,2025-03-02
+Hospital_B,1756,Cholesterol,5.54,mmol/L,3.2,5.2,2025-12-01
+Hospital_B,1854,Hemoglobin A1c,7.2,%,4.0,5.6,2025-09-30
+Hospital_B,1601,Glucose,10.0,mmol/L,3.9,5.5,2025-12-15
+Hospital_B,1956,Cholesterol,4.62,mmol/L,3.2,5.2,2024-06-26
+Hospital_B,1652,Hemoglobin A1c,7.6,%,4.0,5.6,2025-04-18
+Hospital_C,1832,Hemoglobin A1c,8.0,%,4.0,5.6,2024-04-26
+Hospital_A,1167,Hemoglobin A1c,10.4,%,4.0,5.6,2024-06-22
+Hospital_A,1186,Cholesterol,6.36,mmol/L,3.2,5.2,2025-09-03
+Hospital_B,1726,Cholesterol,5.63,mmol/L,3.2,5.2,2025-05-16
+Hospital_C,1390,Glucose,6.02,mmol/L,3.9,5.5,2025-10-11
+Hospital_B,1566,Hemoglobin A1c,7.5,%,4.0,5.6,2024-08-28
+Hospital_C,1169,Cholesterol,4.5,mmol/L,3.2,5.2,2024-05-15
+Hospital_A,1218,Hemoglobin A1c,8.1,%,4.0,5.6,2024-12-11
+Hospital_C,1173,Glucose,5.0,mmol/L,3.9,5.5,2025-11-26
+Hospital_B,1517,Cholesterol,6.83,mmol/L,3.2,5.2,2025-05-25
+Hospital_A,1794,Cholesterol,5.62,mmol/L,3.2,5.2,2025-02-17
+Hospital_A,1382,Glucose,8.97,mmol/L,3.9,5.5,2025-11-15
+Hospital_C,1310,Hemoglobin A1c,6.7,%,4.0,5.6,2025-12-06
+Hospital_A,1301,Cholesterol,,mmol/L,3.2,5.2,2025-04-11
+Hospital_B,1885,Glucose,9.19,mmol/L,3.9,5.5,2024-04-08
+Hospital_A,1087,Glucose,9.5,mmol/L,3.9,5.5,2024-12-08
+Hospital_C,1390,Cholesterol,6.5,mmol/L,3.2,5.2,2025-07-10
+Hospital_A,1350,Hemoglobin A1c,5.4,%,4.0,5.6,2024-07-08
+Hospital_B,1279,Glucose,5.98,mmol/L,3.9,5.5,2024-03-27
+Hospital_A,1760,Cholesterol,4.14,mmol/L,3.2,5.2,2025-02-20
+Hospital_B,1581,Glucose,4.27,mmol/L,3.9,5.5,2025-07-22
+Hospital_C,1554,Cholesterol,5.08,mmol/L,3.2,5.2,2024-04-02
+Hospital_C,1534,Hemoglobin A1c,4.8,%,4.0,5.6,2025-05-03
+Hospital_A,1132,Hemoglobin A1c,7.5,%,4.0,5.6,2024-06-28
+Hospital_C,1084,Hemoglobin A1c,8.5,%,4.0,5.6,2024-08-02
+Hospital_C,1640,Glucose,8.45,mmol/L,3.9,5.5,2026-03-05
+Hospital_C,1054,Glucose,9.83,mmol/L,3.9,5.5,2024-08-31
+Hospital_C,1891,Glucose,5.93,mmol/L,3.9,5.5,2025-05-26
+Hospital_B,1707,Glucose,,mmol/L,3.9,5.5,2024-08-03
+Hospital_B,1365,Glucose,7.61,mmol/L,3.9,5.5,2025-10-11
+Hospital_B,1643,Hemoglobin A1c,9.3,%,4.0,5.6,2024-05-01
+Hospital_A,1875,Glucose,5.59,mmol/L,3.9,5.5,2026-02-27
+Hospital_A,1797,Glucose,4.49,mmol/L,3.9,5.5,2025-07-21
+Hospital_B,1848,Hemoglobin A1c,5.0,%,4.0,5.6,2024-06-16
+Hospital_A,1547,Hemoglobin A1c,5.2,%,4.0,5.6,2024-07-21
+Hospital_A,1356,Hemoglobin A1c,9.2,%,4.0,5.6,2025-11-22
+Hospital_C,1454,Glucose,6.77,mmol/L,3.9,5.5,2024-09-23
+Hospital_A,1026,Cholesterol,6.23,mmol/L,3.2,5.2,2025-08-06
+Hospital_A,1946,Glucose,,mmol/L,3.9,5.5,2025-07-31
+Hospital_C,1944,Cholesterol,7.67,mmol/L,3.2,5.2,2025-07-08
+Hospital_A,1367,Glucose,8.69,mmol/L,3.9,5.5,2024-07-22
+Hospital_A,1938,Glucose,9.33,mmol/L,3.9,5.5,2024-09-08
+Hospital_A,1039,Glucose,8.8,mmol/L,3.9,5.5,2025-12-14
+Hospital_A,1334,Cholesterol,,mmol/L,3.2,5.2,2024-04-18
+Hospital_B,1172,Hemoglobin A1c,7.8,%,4.0,5.6,2024-05-21
+Hospital_B,1009,Glucose,8.52,mmol/L,3.9,5.5,2025-10-13
+Hospital_C,1359,Glucose,9.06,mmol/L,3.9,5.5,2026-01-02
+Hospital_A,1772,Glucose,9.8,mmol/L,3.9,5.5,2025-08-23
+Hospital_B,1933,Cholesterol,4.58,mmol/L,3.2,5.2,2026-03-20
+Hospital_A,1196,Cholesterol,5.11,mmol/L,3.2,5.2,2024-12-03
+Hospital_C,1184,Hemoglobin A1c,9.1,%,4.0,5.6,2024-05-30
+Hospital_B,1666,Cholesterol,5.89,mmol/L,3.2,5.2,2025-12-05
+Hospital_B,1763,Hemoglobin A1c,10.0,%,4.0,5.6,2025-03-12
+Hospital_A,1606,Hemoglobin A1c,,%,4.0,5.6,2024-09-22
+Hospital_B,1872,Hemoglobin A1c,9.0,%,4.0,5.6,2024-08-19
+Hospital_A,1780,Hemoglobin A1c,9.1,%,4.0,5.6,2024-08-08
+Hospital_A,1687,Cholesterol,5.87,mmol/L,3.2,5.2,2024-09-28
+Hospital_C,1323,Cholesterol,7.34,mmol/L,3.2,5.2,2024-05-10
+Hospital_B,1972,Cholesterol,6.51,mmol/L,3.2,5.2,2024-09-04
+Hospital_C,1293,Hemoglobin A1c,6.3,%,4.0,5.6,2025-07-11
+Hospital_B,1725,Hemoglobin A1c,9.6,%,4.0,5.6,2025-11-19
+Hospital_A,1647,Cholesterol,6.67,mmol/L,3.2,5.2,2025-07-22
+Hospital_C,1262,Hemoglobin A1c,9.2,%,4.0,5.6,2025-03-10
+Hospital_C,1968,Cholesterol,7.31,mmol/L,3.2,5.2,2025-09-26
+Hospital_A,1586,Glucose,8.83,mmol/L,3.9,5.5,2025-01-06
+Hospital_B,1822,Hemoglobin A1c,9.3,%,4.0,5.6,2026-02-23
+Hospital_A,1580,Cholesterol,4.69,mmol/L,3.2,5.2,2025-06-21
+Hospital_A,1288,Hemoglobin A1c,8.9,%,4.0,5.6,2025-11-18
+Hospital_B,1214,Hemoglobin A1c,6.7,%,4.0,5.6,2024-07-09
+Hospital_B,1989,Cholesterol,6.76,mmol/L,3.2,5.2,2025-08-23
+Hospital_C,1502,Glucose,6.91,mmol/L,3.9,5.5,2024-12-11
+Hospital_C,1009,Hemoglobin A1c,4.9,%,4.0,5.6,2024-10-12
+Hospital_A,1265,Cholesterol,4.62,mmol/L,3.2,5.2,2025-03-01
+Hospital_B,1984,Cholesterol,4.26,mmol/L,3.2,5.2,2025-01-25
+Hospital_B,1826,Hemoglobin A1c,6.1,%,4.0,5.6,2025-08-31
+Hospital_A,1498,Cholesterol,6.03,mmol/L,3.2,5.2,2025-08-24
+Hospital_A,1105,Hemoglobin A1c,5.5,%,4.0,5.6,2024-08-14
+Hospital_A,1431,Glucose,,mmol/L,3.9,5.5,2025-04-17
+Hospital_B,1648,Hemoglobin A1c,10.3,%,4.0,5.6,2025-09-30
+Hospital_B,1686,Glucose,9.02,mmol/L,3.9,5.5,2025-12-18
+Hospital_B,1116,Cholesterol,6.52,mmol/L,3.2,5.2,2025-09-04
+Hospital_B,1000,Hemoglobin A1c,9.8,%,4.0,5.6,2025-02-15
+Hospital_C,1114,Glucose,5.39,mmol/L,3.9,5.5,2025-02-06
+Hospital_A,1528,Glucose,5.91,mmol/L,3.9,5.5,2024-11-20
+Hospital_B,1953,Hemoglobin A1c,10.1,%,4.0,5.6,2024-11-25
+Hospital_A,1034,Glucose,4.24,mmol/L,3.9,5.5,2025-05-03
+Hospital_A,1079,Hemoglobin A1c,6.8,%,4.0,5.6,2025-03-13
+Hospital_C,1243,Glucose,,mmol/L,3.9,5.5,2025-08-02
+Hospital_B,1789,Hemoglobin A1c,5.0,%,4.0,5.6,2025-05-30
+Hospital_B,1713,Hemoglobin A1c,5.7,%,4.0,5.6,2024-11-20
+Hospital_B,1919,Cholesterol,4.59,mmol/L,3.2,5.2,2025-10-09
+Hospital_A,1583,Hemoglobin A1c,,%,4.0,5.6,2025-12-14
+Hospital_C,1370,Glucose,8.6,mmol/L,3.9,5.5,2025-02-06
+Hospital_C,1144,Cholesterol,5.61,mmol/L,3.2,5.2,2024-08-19
+Hospital_C,1610,Glucose,4.85,mmol/L,3.9,5.5,2025-02-12
+Hospital_A,1339,Cholesterol,5.22,mmol/L,3.2,5.2,2025-12-23
+Hospital_B,1890,Glucose,7.1,mmol/L,3.9,5.5,2024-04-04
+Hospital_A,1452,Cholesterol,5.39,mmol/L,3.2,5.2,2025-12-03
+Hospital_B,1152,Cholesterol,3.92,mmol/L,3.2,5.2,2025-01-01
+Hospital_B,1883,Cholesterol,5.68,mmol/L,3.2,5.2,2025-06-14
+Hospital_A,1408,Cholesterol,6.83,mmol/L,3.2,5.2,2026-01-31
+Hospital_C,1728,Hemoglobin A1c,5.1,%,4.0,5.6,2024-04-28
+Hospital_A,1938,Hemoglobin A1c,9.7,%,4.0,5.6,2024-11-24
+Hospital_B,1603,Hemoglobin A1c,6.9,%,4.0,5.6,2025-08-25
+Hospital_C,1475,Cholesterol,,mmol/L,3.2,5.2,2024-11-28
+Hospital_A,1446,Cholesterol,4.21,mmol/L,3.2,5.2,2025-10-31
+Hospital_C,1134,Glucose,4.48,mmol/L,3.9,5.5,2026-03-08
+Hospital_A,1976,Hemoglobin A1c,9.7,%,4.0,5.6,2025-09-19
+Hospital_B,1510,Hemoglobin A1c,5.0,%,4.0,5.6,2026-02-16
+Hospital_A,1141,Glucose,,mmol/L,3.9,5.5,2025-11-30
+Hospital_B,1142,Glucose,9.04,mmol/L,3.9,5.5,2024-07-12
+Hospital_C,1811,Glucose,4.37,mmol/L,3.9,5.5,2025-05-12
+Hospital_B,1629,Glucose,4.3,mmol/L,3.9,5.5,2025-05-23
+Hospital_B,1251,Glucose,6.16,mmol/L,3.9,5.5,2024-12-01
+Hospital_A,1415,Hemoglobin A1c,,%,4.0,5.6,2025-12-04
+Hospital_B,1992,Hemoglobin A1c,7.4,%,4.0,5.6,2025-09-17
+Hospital_A,1706,Hemoglobin A1c,5.7,%,4.0,5.6,2024-04-16
+Hospital_B,1054,Cholesterol,5.71,mmol/L,3.2,5.2,2024-10-15
+Hospital_B,1375,Cholesterol,5.33,mmol/L,3.2,5.2,2025-04-04
+Hospital_A,1391,Hemoglobin A1c,6.0,%,4.0,5.6,2025-01-04
+Hospital_C,1883,Hemoglobin A1c,8.1,%,4.0,5.6,2024-06-26
+Hospital_C,1367,Cholesterol,7.14,mmol/L,3.2,5.2,2025-12-21
+Hospital_C,1590,Glucose,3.99,mmol/L,3.9,5.5,2025-10-29
+Hospital_A,1089,Glucose,7.29,mmol/L,3.9,5.5,2024-05-10
+Hospital_B,1997,Cholesterol,5.84,mmol/L,3.2,5.2,2025-04-17
+Hospital_B,1098,Cholesterol,7.03,mmol/L,3.2,5.2,2026-01-21
+Hospital_C,1669,Cholesterol,5.44,mmol/L,3.2,5.2,2026-02-11
+Hospital_A,1623,Glucose,6.08,mmol/L,3.9,5.5,2026-01-15
+Hospital_B,1096,Cholesterol,4.98,mmol/L,3.2,5.2,2025-11-12
+Hospital_C,1618,Cholesterol,4.73,mmol/L,3.2,5.2,2024-12-08
+Hospital_C,1657,Hemoglobin A1c,4.8,%,4.0,5.6,2025-02-02
+Hospital_A,1503,Hemoglobin A1c,8.8,%,4.0,5.6,2024-09-30
+Hospital_A,1224,Hemoglobin A1c,9.4,%,4.0,5.6,2025-04-08
+Hospital_A,1279,Cholesterol,5.24,mmol/L,3.2,5.2,2025-08-14
+Hospital_A,1672,Hemoglobin A1c,6.6,%,4.0,5.6,2024-04-22
+Hospital_B,1646,Glucose,6.47,mmol/L,3.9,5.5,2024-09-22
+Hospital_B,1677,Hemoglobin A1c,7.0,%,4.0,5.6,2025-09-02
+Hospital_C,1685,Hemoglobin A1c,,%,4.0,5.6,2024-06-12
+Hospital_C,1315,Cholesterol,4.3,mmol/L,3.2,5.2,2024-05-13
+Hospital_A,1648,Hemoglobin A1c,8.5,%,4.0,5.6,2024-11-22
+Hospital_A,1595,Glucose,6.71,mmol/L,3.9,5.5,2025-04-26
+Hospital_B,1192,Glucose,9.39,mmol/L,3.9,5.5,2024-12-30
+Hospital_A,1324,Hemoglobin A1c,6.4,%,4.0,5.6,2024-12-13
+Hospital_A,1398,Hemoglobin A1c,8.8,%,4.0,5.6,2024-06-30
+Hospital_B,1993,Glucose,5.39,mmol/L,3.9,5.5,2024-10-18
+Hospital_A,1179,Cholesterol,7.14,mmol/L,3.2,5.2,2025-06-08
+Hospital_A,1536,Cholesterol,5.35,mmol/L,3.2,5.2,2025-06-19
+Hospital_A,1959,Hemoglobin A1c,4.7,%,4.0,5.6,2026-02-23
+Hospital_C,1448,Cholesterol,,mmol/L,3.2,5.2,2025-11-11
+Hospital_B,1871,Glucose,8.74,mmol/L,3.9,5.5,2024-04-10
+Hospital_A,1440,Glucose,5.83,mmol/L,3.9,5.5,2024-10-10
+Hospital_A,1976,Cholesterol,5.39,mmol/L,3.2,5.2,2025-03-17
+Hospital_B,1847,Hemoglobin A1c,8.9,%,4.0,5.6,2025-05-23
+Hospital_B,1934,Cholesterol,5.67,mmol/L,3.2,5.2,2024-08-22
+Hospital_C,1541,Cholesterol,6.4,mmol/L,3.2,5.2,2025-02-21
+Hospital_B,1997,Glucose,6.13,mmol/L,3.9,5.5,2024-04-20
+Hospital_A,1648,Hemoglobin A1c,8.6,%,4.0,5.6,2025-09-17
+Hospital_C,1376,Glucose,8.0,mmol/L,3.9,5.5,2026-02-24
+Hospital_C,1778,Cholesterol,7.23,mmol/L,3.2,5.2,2024-03-29
+Hospital_C,1309,Cholesterol,6.47,mmol/L,3.2,5.2,2024-05-18
+Hospital_C,1501,Cholesterol,4.07,mmol/L,3.2,5.2,2025-03-23
+Hospital_C,1973,Glucose,7.41,mmol/L,3.9,5.5,2025-12-18
+Hospital_B,1134,Cholesterol,5.65,mmol/L,3.2,5.2,2025-08-18
+Hospital_B,1526,Glucose,9.83,mmol/L,3.9,5.5,2025-03-18
+Hospital_A,1730,Hemoglobin A1c,8.9,%,4.0,5.6,2025-02-08
+Hospital_C,1703,Hemoglobin A1c,6.6,%,4.0,5.6,2025-02-17
+Hospital_B,1835,Cholesterol,4.89,mmol/L,3.2,5.2,2024-09-21
+Hospital_C,1358,Hemoglobin A1c,9.0,%,4.0,5.6,2024-09-15
+Hospital_A,1995,Glucose,4.15,mmol/L,3.9,5.5,2025-02-12
+Hospital_A,1361,Hemoglobin A1c,8.2,%,4.0,5.6,2025-09-21
+Hospital_A,1400,Hemoglobin A1c,8.2,%,4.0,5.6,2024-04-11
+Hospital_A,1602,Cholesterol,3.91,mmol/L,3.2,5.2,2024-05-29
+Hospital_B,1157,Glucose,8.97,mmol/L,3.9,5.5,2025-07-31
+Hospital_A,1243,Cholesterol,6.75,mmol/L,3.2,5.2,2025-07-10
+Hospital_B,1079,Cholesterol,4.93,mmol/L,3.2,5.2,2025-12-11
+Hospital_A,1168,Hemoglobin A1c,7.5,%,4.0,5.6,2026-03-26
+Hospital_B,1144,Glucose,3.97,mmol/L,3.9,5.5,2026-02-09
+Hospital_C,1604,Glucose,5.8,mmol/L,3.9,5.5,2025-08-10
+Hospital_C,1204,Cholesterol,7.34,mmol/L,3.2,5.2,2026-02-14
+Hospital_B,1856,Glucose,5.94,mmol/L,3.9,5.5,2024-05-09
+Hospital_C,1998,Hemoglobin A1c,8.3,%,4.0,5.6,2024-05-19
+Hospital_A,1814,Cholesterol,7.63,mmol/L,3.2,5.2,2024-06-28
+Hospital_B,1453,Cholesterol,4.47,mmol/L,3.2,5.2,2025-08-04
+Hospital_B,1173,Hemoglobin A1c,8.2,%,4.0,5.6,2024-07-22
+Hospital_C,1753,Hemoglobin A1c,5.7,%,4.0,5.6,2025-04-12
+Hospital_C,1666,Cholesterol,5.63,mmol/L,3.2,5.2,2024-06-17
+Hospital_B,1151,Cholesterol,6.1,mmol/L,3.2,5.2,2026-01-15
+Hospital_A,1266,Hemoglobin A1c,7.2,%,4.0,5.6,2025-07-13
+Hospital_A,1526,Glucose,8.56,mmol/L,3.9,5.5,2024-08-29
+Hospital_B,1204,Glucose,6.65,mmol/L,3.9,5.5,2026-03-04
+Hospital_A,1600,Cholesterol,7.16,mmol/L,3.2,5.2,2024-08-20
+Hospital_A,1253,Hemoglobin A1c,6.0,%,4.0,5.6,2025-03-10
+Hospital_C,1664,Hemoglobin A1c,,%,4.0,5.6,2025-03-02
+Hospital_A,1782,Hemoglobin A1c,5.2,%,4.0,5.6,2025-12-31
+Hospital_A,1891,Cholesterol,4.47,mmol/L,3.2,5.2,2025-06-10
+Hospital_A,1699,Cholesterol,5.28,mmol/L,3.2,5.2,2024-06-18
+Hospital_A,1384,Cholesterol,7.49,mmol/L,3.2,5.2,2025-11-17
+Hospital_B,1274,Hemoglobin A1c,5.5,%,4.0,5.6,2025-11-04
+Hospital_C,1812,Cholesterol,6.99,mmol/L,3.2,5.2,2024-08-20
+Hospital_B,1244,Cholesterol,6.74,mmol/L,3.2,5.2,2025-05-14
+Hospital_A,1270,Hemoglobin A1c,8.5,%,4.0,5.6,2025-10-07
+Hospital_B,1095,Glucose,,mmol/L,3.9,5.5,2025-06-29
+Hospital_C,1711,Glucose,8.78,mmol/L,3.9,5.5,2025-07-11
+Hospital_B,1043,Hemoglobin A1c,6.6,%,4.0,5.6,2025-03-30
+Hospital_C,1394,Hemoglobin A1c,,%,4.0,5.6,2025-08-31
+Hospital_A,1709,Cholesterol,4.39,mmol/L,3.2,5.2,2025-01-16
+Hospital_C,1638,Glucose,6.73,mmol/L,3.9,5.5,2025-01-14
+Hospital_C,1996,Hemoglobin A1c,9.5,%,4.0,5.6,2025-07-17
+Hospital_B,1903,Glucose,8.7,mmol/L,3.9,5.5,2025-08-09
+Hospital_A,1964,Cholesterol,6.28,mmol/L,3.2,5.2,2025-08-22
+Hospital_C,1898,Cholesterol,7.4,mmol/L,3.2,5.2,2024-05-22
+Hospital_A,1301,Hemoglobin A1c,6.0,%,4.0,5.6,2025-05-23
+Hospital_A,1207,Glucose,6.9,mmol/L,3.9,5.5,2024-09-07
+Hospital_A,1878,Hemoglobin A1c,10.0,%,4.0,5.6,2025-05-27
+Hospital_A,1167,Glucose,6.39,mmol/L,3.9,5.5,2025-08-27
+Hospital_B,1536,Cholesterol,5.29,mmol/L,3.2,5.2,2025-07-22
+Hospital_A,1945,Glucose,5.79,mmol/L,3.9,5.5,2025-04-07
+Hospital_A,1749,Glucose,5.95,mmol/L,3.9,5.5,2026-03-23
+Hospital_A,1394,Hemoglobin A1c,5.7,%,4.0,5.6,2026-03-15
+Hospital_C,1066,Hemoglobin A1c,5.2,%,4.0,5.6,2024-08-05
+Hospital_C,1141,Glucose,6.2,mmol/L,3.9,5.5,2025-11-22
+Hospital_C,1971,Hemoglobin A1c,6.6,%,4.0,5.6,2025-07-21
+Hospital_C,1822,Cholesterol,4.75,mmol/L,3.2,5.2,2024-04-24
+Hospital_C,1598,Hemoglobin A1c,8.9,%,4.0,5.6,2025-05-19
+Hospital_C,1374,Cholesterol,6.81,mmol/L,3.2,5.2,2025-11-25
+Hospital_B,1640,Hemoglobin A1c,6.1,%,4.0,5.6,2025-11-09
+Hospital_C,1922,Cholesterol,3.9,mmol/L,3.2,5.2,2026-01-16
+Hospital_C,1360,Hemoglobin A1c,5.6,%,4.0,5.6,2024-12-13
+Hospital_C,1673,Glucose,5.33,mmol/L,3.9,5.5,2025-05-04
+Hospital_C,1150,Glucose,9.53,mmol/L,3.9,5.5,2026-02-17
+Hospital_A,1615,Hemoglobin A1c,,%,4.0,5.6,2026-01-09
+Hospital_A,1247,Cholesterol,6.03,mmol/L,3.2,5.2,2025-12-03
+Hospital_A,1509,Cholesterol,4.12,mmol/L,3.2,5.2,2024-06-16
+Hospital_B,1563,Glucose,5.69,mmol/L,3.9,5.5,2026-02-15
+Hospital_A,1201,Glucose,4.17,mmol/L,3.9,5.5,2026-02-23
+Hospital_A,1003,Cholesterol,5.66,mmol/L,3.2,5.2,2025-06-18
+Hospital_B,1807,Hemoglobin A1c,8.0,%,4.0,5.6,2024-10-25
+Hospital_B,1067,Glucose,5.19,mmol/L,3.9,5.5,2025-09-14
+Hospital_C,1291,Cholesterol,4.68,mmol/L,3.2,5.2,2026-03-08
+Hospital_B,1309,Cholesterol,4.89,mmol/L,3.2,5.2,2025-12-10
+Hospital_B,1419,Cholesterol,4.25,mmol/L,3.2,5.2,2025-08-26
+Hospital_C,1897,Cholesterol,4.37,mmol/L,3.2,5.2,2024-11-05
+Hospital_C,1290,Hemoglobin A1c,6.3,%,4.0,5.6,2024-07-17
+Hospital_C,1838,Hemoglobin A1c,9.1,%,4.0,5.6,2025-08-15
+Hospital_A,1713,Hemoglobin A1c,7.1,%,4.0,5.6,2025-07-24
+Hospital_A,1281,Cholesterol,5.36,mmol/L,3.2,5.2,2026-03-22
+Hospital_C,1999,Cholesterol,5.72,mmol/L,3.2,5.2,2024-12-17
+Hospital_B,1391,Cholesterol,5.83,mmol/L,3.2,5.2,2025-09-04
+Hospital_C,1961,Hemoglobin A1c,8.1,%,4.0,5.6,2025-10-11
+Hospital_A,1696,Cholesterol,4.21,mmol/L,3.2,5.2,2025-07-22
+Hospital_B,1131,Cholesterol,5.44,mmol/L,3.2,5.2,2024-11-17
+Hospital_B,1943,Cholesterol,4.39,mmol/L,3.2,5.2,2024-06-10
+Hospital_C,1140,Hemoglobin A1c,6.2,%,4.0,5.6,2026-01-25
+Hospital_B,1925,Cholesterol,5.27,mmol/L,3.2,5.2,2025-02-01
+Hospital_A,1198,Hemoglobin A1c,10.0,%,4.0,5.6,2025-12-27
+Hospital_A,1494,Hemoglobin A1c,5.5,%,4.0,5.6,2025-10-06
+Hospital_C,1423,Cholesterol,6.25,mmol/L,3.2,5.2,2024-06-17
+Hospital_C,1366,Hemoglobin A1c,5.2,%,4.0,5.6,2025-01-13
+Hospital_A,1872,Glucose,5.9,mmol/L,3.9,5.5,2025-04-02
+Hospital_C,1773,Cholesterol,6.64,mmol/L,3.2,5.2,2026-02-28
+Hospital_A,1353,Glucose,5.69,mmol/L,3.9,5.5,2025-01-09
+Hospital_A,1544,Glucose,4.29,mmol/L,3.9,5.5,2025-05-01
+Hospital_C,1922,Cholesterol,6.54,mmol/L,3.2,5.2,2025-09-20
+Hospital_A,1926,Hemoglobin A1c,,%,4.0,5.6,2025-03-31
+Hospital_B,1392,Cholesterol,4.02,mmol/L,3.2,5.2,2025-12-26
+Hospital_A,1850,Cholesterol,6.33,mmol/L,3.2,5.2,2026-03-13
+Hospital_C,1487,Cholesterol,5.87,mmol/L,3.2,5.2,2024-09-26
+Hospital_A,1158,Glucose,9.15,mmol/L,3.9,5.5,2025-09-07
+Hospital_C,1928,Cholesterol,7.23,mmol/L,3.2,5.2,2025-01-03
+Hospital_B,1244,Glucose,5.57,mmol/L,3.9,5.5,2026-03-24
+Hospital_C,1197,Hemoglobin A1c,5.6,%,4.0,5.6,2025-08-13
+Hospital_A,1291,Cholesterol,5.41,mmol/L,3.2,5.2,2025-06-23
+Hospital_B,1450,Cholesterol,7.07,mmol/L,3.2,5.2,2025-02-16
+Hospital_A,1103,Cholesterol,4.61,mmol/L,3.2,5.2,2024-10-04
+Hospital_C,1726,Cholesterol,4.86,mmol/L,3.2,5.2,2025-10-12
+Hospital_C,1002,Hemoglobin A1c,7.7,%,4.0,5.6,2024-11-14
+Hospital_A,1159,Hemoglobin A1c,9.1,%,4.0,5.6,2024-07-12
+Hospital_C,1559,Glucose,5.66,mmol/L,3.9,5.5,2024-07-16
+Hospital_B,1472,Glucose,7.58,mmol/L,3.9,5.5,2024-11-14
+Hospital_A,1117,Glucose,9.09,mmol/L,3.9,5.5,2024-05-05
+Hospital_A,1307,Glucose,4.02,mmol/L,3.9,5.5,2025-11-25
+Hospital_C,1020,Hemoglobin A1c,4.9,%,4.0,5.6,2024-11-23
+Hospital_C,1281,Hemoglobin A1c,7.3,%,4.0,5.6,2025-10-31
+Hospital_A,1598,Hemoglobin A1c,7.3,%,4.0,5.6,2025-01-04
+Hospital_A,1881,Hemoglobin A1c,7.1,%,4.0,5.6,2024-10-09
+Hospital_C,1049,Cholesterol,,mmol/L,3.2,5.2,2024-07-22
+Hospital_A,1567,Glucose,6.05,mmol/L,3.9,5.5,2025-07-26
+Hospital_C,1053,Hemoglobin A1c,6.1,%,4.0,5.6,2025-06-25
+Hospital_C,1110,Hemoglobin A1c,10.4,%,4.0,5.6,2025-12-15
+Hospital_A,1333,Cholesterol,6.95,mmol/L,3.2,5.2,2024-10-04
+Hospital_C,1162,Hemoglobin A1c,7.8,%,4.0,5.6,2026-03-12
+Hospital_C,1501,Cholesterol,7.32,mmol/L,3.2,5.2,2024-11-15
+Hospital_C,1126,Cholesterol,4.63,mmol/L,3.2,5.2,2024-12-08
+Hospital_C,1822,Glucose,5.44,mmol/L,3.9,5.5,2024-10-30
+Hospital_C,1520,Cholesterol,4.95,mmol/L,3.2,5.2,2025-02-21
+Hospital_B,1963,Cholesterol,4.7,mmol/L,3.2,5.2,2025-11-01
+Hospital_A,1854,Glucose,4.84,mmol/L,3.9,5.5,2025-02-25
+Hospital_A,1322,Hemoglobin A1c,9.7,%,4.0,5.6,2026-01-14
+Hospital_B,1559,Hemoglobin A1c,8.2,%,4.0,5.6,2024-07-07
+Hospital_C,1533,Hemoglobin A1c,,%,4.0,5.6,2024-07-28
+Hospital_A,1122,Glucose,8.14,mmol/L,3.9,5.5,2024-10-10
+Hospital_A,1543,Hemoglobin A1c,10.1,%,4.0,5.6,2024-05-28
+Hospital_A,1778,Hemoglobin A1c,8.1,%,4.0,5.6,2025-06-01
+Hospital_A,1558,Glucose,6.52,mmol/L,3.9,5.5,2024-12-10
+Hospital_A,1364,Glucose,,mmol/L,3.9,5.5,2024-04-13
+Hospital_B,1744,Cholesterol,4.58,mmol/L,3.2,5.2,2024-05-13
+Hospital_A,1303,Hemoglobin A1c,9.2,%,4.0,5.6,2024-12-17
+Hospital_B,1726,Glucose,4.42,mmol/L,3.9,5.5,2024-12-17
+Hospital_B,1151,Glucose,4.62,mmol/L,3.9,5.5,2025-05-27
+Hospital_A,1094,Hemoglobin A1c,9.6,%,4.0,5.6,2024-12-19
+Hospital_A,1036,Hemoglobin A1c,8.7,%,4.0,5.6,2024-04-13
+Hospital_A,1779,Hemoglobin A1c,8.9,%,4.0,5.6,2025-04-29
+Hospital_C,1233,Cholesterol,4.54,mmol/L,3.2,5.2,2025-10-14
+Hospital_A,1386,Hemoglobin A1c,9.5,%,4.0,5.6,2024-04-29
+Hospital_A,1969,Hemoglobin A1c,6.5,%,4.0,5.6,2026-03-26
+Hospital_A,1825,Glucose,9.5,mmol/L,3.9,5.5,2025-01-30
+Hospital_C,1873,Cholesterol,4.09,mmol/L,3.2,5.2,2024-03-26
+Hospital_B,1486,Cholesterol,6.83,mmol/L,3.2,5.2,2024-11-13
+Hospital_A,1527,Cholesterol,5.57,mmol/L,3.2,5.2,2025-05-27
+Hospital_C,1393,Cholesterol,5.79,mmol/L,3.2,5.2,2025-03-30
+Hospital_C,1933,Glucose,7.29,mmol/L,3.9,5.5,2026-03-10
+Hospital_B,1763,Hemoglobin A1c,4.7,%,4.0,5.6,2024-12-28
+Hospital_C,1367,Hemoglobin A1c,7.6,%,4.0,5.6,2025-08-31
+Hospital_C,1417,Hemoglobin A1c,5.8,%,4.0,5.6,2025-10-07
+Hospital_C,1046,Cholesterol,7.48,mmol/L,3.2,5.2,2025-06-22
+Hospital_B,1893,Glucose,5.11,mmol/L,3.9,5.5,2025-09-12
+Hospital_A,1113,Hemoglobin A1c,5.1,%,4.0,5.6,2025-04-17
+Hospital_B,1501,Hemoglobin A1c,4.6,%,4.0,5.6,2025-10-12
+Hospital_B,1071,Hemoglobin A1c,5.6,%,4.0,5.6,2024-12-01
+Hospital_B,1253,Glucose,9.75,mmol/L,3.9,5.5,2024-06-10
+Hospital_A,1397,Cholesterol,7.2,mmol/L,3.2,5.2,2025-12-22
+Hospital_A,1791,Hemoglobin A1c,9.3,%,4.0,5.6,2024-05-09
+Hospital_A,1165,Hemoglobin A1c,6.4,%,4.0,5.6,2024-04-25
+Hospital_B,1956,Hemoglobin A1c,9.7,%,4.0,5.6,2025-04-28
+Hospital_B,1728,Cholesterol,7.28,mmol/L,3.2,5.2,2025-12-05
+Hospital_A,1517,Hemoglobin A1c,8.2,%,4.0,5.6,2025-09-06
+Hospital_C,1940,Glucose,6.87,mmol/L,3.9,5.5,2025-01-22
+Hospital_A,1705,Hemoglobin A1c,,%,4.0,5.6,2025-04-05
+Hospital_C,1161,Glucose,,mmol/L,3.9,5.5,2025-08-27
+Hospital_B,2000,Hemoglobin A1c,5.8,%,4.0,5.6,2024-04-07
+Hospital_A,1421,Glucose,8.08,mmol/L,3.9,5.5,2025-02-07
+Hospital_C,1150,Hemoglobin A1c,7.2,%,4.0,5.6,2024-04-24
+Hospital_B,1170,Hemoglobin A1c,8.9,%,4.0,5.6,2024-09-29
+Hospital_C,1781,Hemoglobin A1c,4.7,%,4.0,5.6,2025-02-23
+Hospital_C,1785,Cholesterol,6.66,mmol/L,3.2,5.2,2025-09-07
+Hospital_A,1688,Hemoglobin A1c,10.3,%,4.0,5.6,2025-03-09
+Hospital_C,1606,Hemoglobin A1c,8.9,%,4.0,5.6,2025-03-12
+Hospital_B,1657,Hemoglobin A1c,9.3,%,4.0,5.6,2024-11-27
+Hospital_B,1352,Glucose,8.69,mmol/L,3.9,5.5,2025-03-23
+Hospital_A,1436,Hemoglobin A1c,8.2,%,4.0,5.6,2024-06-18
+Hospital_C,1662,Cholesterol,5.04,mmol/L,3.2,5.2,2024-12-30
+Hospital_C,1887,Glucose,6.08,mmol/L,3.9,5.5,2025-07-20
+Hospital_A,1590,Hemoglobin A1c,6.1,%,4.0,5.6,2025-06-06
+Hospital_A,1007,Glucose,6.43,mmol/L,3.9,5.5,2024-08-20
+Hospital_B,1798,Hemoglobin A1c,6.9,%,4.0,5.6,2024-09-24
+Hospital_B,1555,Cholesterol,6.08,mmol/L,3.2,5.2,2024-06-05
+Hospital_A,1215,Cholesterol,7.23,mmol/L,3.2,5.2,2024-04-16
+Hospital_B,1637,Glucose,6.51,mmol/L,3.9,5.5,2025-01-13
+Hospital_B,1003,Cholesterol,7.65,mmol/L,3.2,5.2,2025-06-07
+Hospital_C,1082,Hemoglobin A1c,10.2,%,4.0,5.6,2024-06-07
+Hospital_A,1732,Glucose,9.4,mmol/L,3.9,5.5,2025-11-13
+Hospital_B,1734,Hemoglobin A1c,8.7,%,4.0,5.6,2025-01-03
+Hospital_C,1021,Glucose,7.92,mmol/L,3.9,5.5,2024-04-15
+Hospital_A,1461,Glucose,6.97,mmol/L,3.9,5.5,2025-02-21
+Hospital_A,1943,Glucose,9.11,mmol/L,3.9,5.5,2025-03-10
+Hospital_B,1999,Hemoglobin A1c,9.9,%,4.0,5.6,2025-01-15
+Hospital_A,1997,Hemoglobin A1c,8.6,%,4.0,5.6,2024-05-22
+Hospital_A,1948,Glucose,,mmol/L,3.9,5.5,2025-02-04
+Hospital_B,1888,Hemoglobin A1c,9.5,%,4.0,5.6,2025-10-09
+Hospital_A,1820,Cholesterol,4.22,mmol/L,3.2,5.2,2024-12-29
+Hospital_C,1893,Glucose,6.35,mmol/L,3.9,5.5,2025-05-24
+Hospital_B,1099,Hemoglobin A1c,8.9,%,4.0,5.6,2025-11-02
+Hospital_C,1485,Glucose,4.16,mmol/L,3.9,5.5,2024-06-10
+Hospital_A,1119,Glucose,7.81,mmol/L,3.9,5.5,2025-08-20
+Hospital_B,1089,Glucose,8.41,mmol/L,3.9,5.5,2025-06-17
+Hospital_B,1932,Glucose,1860.0,mmol/L,3.9,5.5,2026-03-22
+Hospital_B,1602,Cholesterol,7.26,mmol/L,3.2,5.2,2024-05-12
+Hospital_B,1863,Hemoglobin A1c,10.3,%,4.0,5.6,2024-04-29
+Hospital_C,1308,Hemoglobin A1c,4.9,%,4.0,5.6,2024-10-12
+Hospital_C,1893,Hemoglobin A1c,5.6,%,4.0,5.6,2024-06-05
+Hospital_C,1738,Glucose,8.59,mmol/L,3.9,5.5,2025-09-18
+Hospital_C,1160,Cholesterol,6.21,mmol/L,3.2,5.2,2026-02-04
+Hospital_B,1824,Glucose,7.57,mmol/L,3.9,5.5,2024-12-21
+Hospital_A,1268,Cholesterol,6.42,mmol/L,3.2,5.2,2024-06-25
+Hospital_C,1423,Cholesterol,7.7,mmol/L,3.2,5.2,2025-03-05
+Hospital_C,1644,Cholesterol,5.01,mmol/L,3.2,5.2,2025-09-22
+Hospital_C,1891,Cholesterol,5.58,mmol/L,3.2,5.2,2025-06-14
+Hospital_B,1516,Hemoglobin A1c,5.7,%,4.0,5.6,2024-10-30
+Hospital_B,1857,Cholesterol,4.67,mmol/L,3.2,5.2,2025-09-22
+Hospital_A,1189,Glucose,500.0,mmol/L,3.9,5.5,2025-11-20
+Hospital_B,1630,Cholesterol,4.68,mmol/L,3.2,5.2,2024-11-07
+Hospital_A,1744,Hemoglobin A1c,6.1,%,4.0,5.6,2025-01-12
+Hospital_A,1740,Cholesterol,4.82,mmol/L,3.2,5.2,2024-11-20
+Hospital_C,1224,Glucose,8.83,mmol/L,3.9,5.5,2025-07-12
+Hospital_A,1697,Glucose,,mmol/L,3.9,5.5,2025-04-28
+Hospital_B,1781,Glucose,7.12,mmol/L,3.9,5.5,2025-06-08
+Hospital_C,1535,Hemoglobin A1c,8.5,%,4.0,5.6,2024-11-16
+Hospital_A,1735,Cholesterol,4.32,mmol/L,3.2,5.2,2025-11-05
+Hospital_B,1348,Hemoglobin A1c,9.9,%,4.0,5.6,2025-05-11
+Hospital_C,1151,Cholesterol,7.41,mmol/L,3.2,5.2,2025-01-12
+Hospital_B,1724,Glucose,8.21,mmol/L,3.9,5.5,2024-07-31
+Hospital_B,1932,Cholesterol,5.4,mmol/L,3.2,5.2,2025-04-27
+Hospital_B,1554,Hemoglobin A1c,9.2,%,4.0,5.6,2025-07-10
+Hospital_B,1269,Cholesterol,6.75,mmol/L,3.2,5.2,2025-02-20
+Hospital_A,1514,Hemoglobin A1c,7.2,%,4.0,5.6,2026-02-06
+Hospital_B,1075,Hemoglobin A1c,5.8,%,4.0,5.6,2024-12-03
+Hospital_B,1451,Cholesterol,7.25,mmol/L,3.2,5.2,2025-11-15
+Hospital_B,1601,Glucose,9.52,mmol/L,3.9,5.5,2025-07-08
+Hospital_C,1876,Cholesterol,5.34,mmol/L,3.2,5.2,2025-04-06
+Hospital_B,1960,Cholesterol,4.75,mmol/L,3.2,5.2,2025-06-26
+Hospital_B,1922,Cholesterol,6.61,mmol/L,3.2,5.2,2026-02-15
+Hospital_B,1517,Cholesterol,6.96,mmol/L,3.2,5.2,2025-01-18
+Hospital_A,1860,Cholesterol,4.91,mmol/L,3.2,5.2,2024-11-25
+Hospital_C,1511,Glucose,5.43,mmol/L,3.9,5.5,2024-11-02
+Hospital_B,1764,Cholesterol,6.53,mmol/L,3.2,5.2,2025-09-08
+Hospital_B,1841,Glucose,6.2,mmol/L,3.9,5.5,2024-12-09
+Hospital_C,1954,Glucose,9.32,mmol/L,3.9,5.5,2024-06-11
+Hospital_B,1369,Hemoglobin A1c,4.8,%,4.0,5.6,2025-07-14
+Hospital_C,1210,Glucose,7.47,mmol/L,3.9,5.5,2026-03-06
+Hospital_B,1096,Hemoglobin A1c,10.1,%,4.0,5.6,2024-10-03
+Hospital_B,1923,Hemoglobin A1c,5.5,%,4.0,5.6,2025-12-26
+Hospital_A,1851,Cholesterol,6.42,mmol/L,3.2,5.2,2024-08-09
+Hospital_B,1725,Hemoglobin A1c,,%,4.0,5.6,2024-10-13
+Hospital_B,1719,Hemoglobin A1c,10.0,%,4.0,5.6,2024-03-29
+Hospital_B,1898,Hemoglobin A1c,6.7,%,4.0,5.6,2025-08-02
+Hospital_C,1827,Hemoglobin A1c,5.9,%,4.0,5.6,2025-05-22
+Hospital_B,1595,Hemoglobin A1c,5.7,%,4.0,5.6,2024-10-13
+Hospital_A,1594,Hemoglobin A1c,8.1,%,4.0,5.6,2024-05-05
+Hospital_B,1093,Cholesterol,4.08,mmol/L,3.2,5.2,2025-05-12
+Hospital_A,1997,Glucose,6.28,mmol/L,3.9,5.5,2024-12-24
+Hospital_A,1362,Hemoglobin A1c,6.9,%,4.0,5.6,2024-07-30
+Hospital_B,1054,Hemoglobin A1c,5.9,%,4.0,5.6,2024-11-30
+Hospital_C,1930,Hemoglobin A1c,6.3,%,4.0,5.6,2026-01-05
+Hospital_A,1012,Cholesterol,6.18,mmol/L,3.2,5.2,2025-09-17
+Hospital_B,1214,Cholesterol,6.24,mmol/L,3.2,5.2,2024-05-07
+Hospital_B,1662,Cholesterol,5.04,mmol/L,3.2,5.2,2024-05-25
+Hospital_C,1377,Hemoglobin A1c,9.2,%,4.0,5.6,2024-03-27
+Hospital_A,1550,Hemoglobin A1c,7.6,%,4.0,5.6,2024-05-30
+Hospital_C,1069,Hemoglobin A1c,,%,4.0,5.6,2024-06-21
+Hospital_C,1481,Hemoglobin A1c,9.6,%,4.0,5.6,2024-10-11
+Hospital_C,1150,Cholesterol,5.19,mmol/L,3.2,5.2,2025-04-08
+Hospital_A,1041,Glucose,5.18,mmol/L,3.9,5.5,2025-06-15
+Hospital_A,1771,Cholesterol,5.25,mmol/L,3.2,5.2,2026-03-13
+Hospital_A,1460,Glucose,7.48,mmol/L,3.9,5.5,2026-02-05
+Hospital_B,1449,Glucose,5.08,mmol/L,3.9,5.5,2025-07-10
+Hospital_A,1490,Hemoglobin A1c,10.3,%,4.0,5.6,2024-10-06
+Hospital_A,1179,Glucose,7.03,mmol/L,3.9,5.5,2024-04-06
+Hospital_C,1644,Glucose,5.51,mmol/L,3.9,5.5,2024-11-22
+Hospital_B,1101,Cholesterol,4.11,mmol/L,3.2,5.2,2024-08-26
+Hospital_C,1596,Glucose,8.69,mmol/L,3.9,5.5,2026-02-09
+Hospital_B,1323,Cholesterol,6.49,mmol/L,3.2,5.2,2026-01-04
+Hospital_A,1141,Cholesterol,5.83,mmol/L,3.2,5.2,2025-06-04
+Hospital_A,1643,Cholesterol,6.28,mmol/L,3.2,5.2,2025-03-31
+Hospital_B,1690,Cholesterol,7.28,mmol/L,3.2,5.2,2024-04-07
+Hospital_A,1942,Cholesterol,5.3,mmol/L,3.2,5.2,2024-11-19
+Hospital_C,1533,Cholesterol,3.91,mmol/L,3.2,5.2,2024-06-22
+Hospital_C,1013,Hemoglobin A1c,4.9,%,4.0,5.6,2025-09-21
+Hospital_A,1280,Cholesterol,,mmol/L,3.2,5.2,2024-05-14
+Hospital_B,1664,Hemoglobin A1c,,%,4.0,5.6,2025-04-12
+Hospital_B,1718,Hemoglobin A1c,6.2,%,4.0,5.6,2025-11-16
+Hospital_A,1707,Cholesterol,5.81,mmol/L,3.2,5.2,2024-12-30
+Hospital_C,1614,Hemoglobin A1c,10.3,%,4.0,5.6,2025-03-05
+Hospital_A,1253,Cholesterol,6.31,mmol/L,3.2,5.2,2025-04-28
+Hospital_A,1456,Glucose,6.73,mmol/L,3.9,5.5,2025-10-23
+Hospital_B,1069,Hemoglobin A1c,9.3,%,4.0,5.6,2024-07-31
+Hospital_B,1324,Hemoglobin A1c,5.6,%,4.0,5.6,2025-09-06
+Hospital_A,1467,Cholesterol,3.98,mmol/L,3.2,5.2,2025-05-22
+Hospital_C,1604,Glucose,6.24,mmol/L,3.9,5.5,2025-06-15
+Hospital_A,1270,Cholesterol,5.31,mmol/L,3.2,5.2,2025-04-10
+Hospital_B,1579,Cholesterol,7.25,mmol/L,3.2,5.2,2025-05-20
+Hospital_B,1616,Cholesterol,,mmol/L,3.2,5.2,2025-12-31
+Hospital_A,1371,Hemoglobin A1c,6.6,%,4.0,5.6,2025-03-08
+Hospital_C,1828,Glucose,4.42,mmol/L,3.9,5.5,2024-09-20
+Hospital_A,1009,Hemoglobin A1c,10.1,%,4.0,5.6,2025-10-05
+Hospital_C,1022,Hemoglobin A1c,9.0,%,4.0,5.6,2024-08-30
+Hospital_C,1206,Cholesterol,4.92,mmol/L,3.2,5.2,2025-11-12
+Hospital_C,1699,Glucose,3.99,mmol/L,3.9,5.5,2025-10-03
+Hospital_C,1386,Hemoglobin A1c,10.4,%,4.0,5.6,2024-07-22
+Hospital_C,1356,Cholesterol,6.34,mmol/L,3.2,5.2,2026-02-02
+Hospital_C,1244,Hemoglobin A1c,6.7,%,4.0,5.6,2024-04-18
+Hospital_A,1074,Glucose,500.0,mmol/L,3.9,5.5,2025-05-10
+Hospital_B,1074,Cholesterol,5.58,mmol/L,3.2,5.2,2025-12-15
+Hospital_B,1280,Hemoglobin A1c,6.6,%,4.0,5.6,2025-09-05
+Hospital_B,1236,Glucose,6.97,mmol/L,3.9,5.5,2026-03-02
+Hospital_B,1233,Glucose,6.79,mmol/L,3.9,5.5,2025-04-26
+Hospital_B,1330,Hemoglobin A1c,7.9,%,4.0,5.6,2024-04-02
+Hospital_A,1654,Glucose,5.54,mmol/L,3.9,5.5,2024-12-02
+Hospital_A,1211,Glucose,7.09,mmol/L,3.9,5.5,2025-09-08
+Hospital_B,1955,Hemoglobin A1c,10.4,%,4.0,5.6,2024-10-19
+Hospital_B,1370,Cholesterol,6.01,mmol/L,3.2,5.2,2025-07-26
+Hospital_C,1089,Cholesterol,3.99,mmol/L,3.2,5.2,2024-10-09
+Hospital_A,1322,Hemoglobin A1c,10.3,%,4.0,5.6,2025-02-13
+Hospital_B,1719,Cholesterol,4.53,mmol/L,3.2,5.2,2025-12-20
+Hospital_C,1067,Hemoglobin A1c,7.7,%,4.0,5.6,2024-08-29
+Hospital_A,1889,Hemoglobin A1c,5.5,%,4.0,5.6,2026-02-05
+Hospital_B,1046,Cholesterol,6.75,mmol/L,3.2,5.2,2025-09-28
+Hospital_B,1009,Glucose,5.1,mmol/L,3.9,5.5,2024-04-05
+Hospital_A,1718,Glucose,6.8,mmol/L,3.9,5.5,2024-12-16
+Hospital_C,1145,Cholesterol,5.98,mmol/L,3.2,5.2,2024-12-25
+Hospital_A,1312,Hemoglobin A1c,9.4,%,4.0,5.6,2025-12-08
+Hospital_C,1586,Hemoglobin A1c,9.3,%,4.0,5.6,2025-10-10
+Hospital_A,1452,Hemoglobin A1c,6.1,%,4.0,5.6,2025-04-18
+Hospital_A,1981,Glucose,500.0,mmol/L,3.9,5.5,2024-08-25
+Hospital_C,1719,Hemoglobin A1c,,%,4.0,5.6,2024-12-07
+Hospital_B,1703,Cholesterol,4.44,mmol/L,3.2,5.2,2025-04-18
+Hospital_C,1502,Hemoglobin A1c,5.5,%,4.0,5.6,2025-01-03
+Hospital_C,1098,Hemoglobin A1c,6.1,%,4.0,5.6,2025-11-05
+Hospital_A,1765,Cholesterol,6.34,mmol/L,3.2,5.2,2025-06-03
+Hospital_C,1520,Cholesterol,5.81,mmol/L,3.2,5.2,2025-09-12
+Hospital_A,1147,Glucose,9.82,mmol/L,3.9,5.5,2025-04-03
+Hospital_B,1231,Cholesterol,7.49,mmol/L,3.2,5.2,2025-11-18
+Hospital_C,1548,Glucose,5.41,mmol/L,3.9,5.5,2025-05-29
+Hospital_A,1344,Hemoglobin A1c,7.6,%,4.0,5.6,2025-07-21
+Hospital_C,1311,Hemoglobin A1c,8.0,%,4.0,5.6,2025-09-05
+Hospital_C,1488,Cholesterol,4.54,mmol/L,3.2,5.2,2025-06-08
+Hospital_B,1885,Cholesterol,6.33,mmol/L,3.2,5.2,2025-06-23
+Hospital_A,1285,Hemoglobin A1c,10.2,%,4.0,5.6,2024-09-12
+Hospital_A,1612,Glucose,,mmol/L,3.9,5.5,2024-05-11
+Hospital_A,1819,Cholesterol,7.0,mmol/L,3.2,5.2,2024-08-25
+Hospital_B,1817,Glucose,7.23,mmol/L,3.9,5.5,2024-09-03
+Hospital_A,1933,Cholesterol,6.81,mmol/L,3.2,5.2,2024-07-23
+Hospital_B,1093,Cholesterol,7.49,mmol/L,3.2,5.2,2024-09-03
+Hospital_C,1663,Hemoglobin A1c,,%,4.0,5.6,2025-05-01
+Hospital_C,1545,Cholesterol,3.89,mmol/L,3.2,5.2,2024-05-08
+Hospital_A,1605,Hemoglobin A1c,8.9,%,4.0,5.6,2024-08-03
+Hospital_A,1639,Glucose,9.63,mmol/L,3.9,5.5,2025-03-24
+Hospital_A,1135,Cholesterol,7.69,mmol/L,3.2,5.2,2024-06-07
+Hospital_C,1452,Cholesterol,6.89,mmol/L,3.2,5.2,2025-03-08
+Hospital_C,1760,Cholesterol,4.87,mmol/L,3.2,5.2,2024-11-20
+Hospital_A,1210,Cholesterol,6.99,mmol/L,3.2,5.2,2025-10-14
+Hospital_A,1903,Hemoglobin A1c,6.4,%,4.0,5.6,2025-02-26
+Hospital_B,1414,Glucose,9.21,mmol/L,3.9,5.5,2025-10-08
+Hospital_A,1395,Glucose,9.13,mmol/L,3.9,5.5,2025-03-18
+Hospital_A,1369,Glucose,,mmol/L,3.9,5.5,2024-10-26
+Hospital_B,1152,Glucose,9.03,mmol/L,3.9,5.5,2024-05-07
+Hospital_A,1357,Glucose,5.91,mmol/L,3.9,5.5,2024-12-11
+Hospital_C,1932,Hemoglobin A1c,8.6,%,4.0,5.6,2024-05-15
+Hospital_C,1549,Cholesterol,5.9,mmol/L,3.2,5.2,2024-07-29
+Hospital_A,1075,Hemoglobin A1c,4.8,%,4.0,5.6,2024-07-13
+Hospital_B,1186,Glucose,4.87,mmol/L,3.9,5.5,2025-05-27
+Hospital_B,1743,Glucose,6.57,mmol/L,3.9,5.5,2024-12-23
+Hospital_C,1150,Hemoglobin A1c,9.4,%,4.0,5.6,2024-11-24
+Hospital_A,1391,Glucose,4.31,mmol/L,3.9,5.5,2024-05-01
+Hospital_C,1610,Hemoglobin A1c,9.4,%,4.0,5.6,2026-03-22
+Hospital_C,1919,Glucose,4.13,mmol/L,3.9,5.5,2024-10-31
+Hospital_C,1401,Hemoglobin A1c,9.2,%,4.0,5.6,2026-01-07
+Hospital_A,1011,Cholesterol,,mmol/L,3.2,5.2,2026-03-14
+Hospital_A,1372,Hemoglobin A1c,9.6,%,4.0,5.6,2025-01-19
+Hospital_B,1696,Hemoglobin A1c,5.4,%,4.0,5.6,2024-10-07
+Hospital_B,1707,Cholesterol,7.0,mmol/L,3.2,5.2,2025-11-30
+Hospital_C,1351,Hemoglobin A1c,7.0,%,4.0,5.6,2024-09-10
+Hospital_B,1808,Hemoglobin A1c,7.1,%,4.0,5.6,2026-02-01
+Hospital_C,1464,Cholesterol,7.3,mmol/L,3.2,5.2,2025-08-12
+Hospital_A,1203,Cholesterol,4.03,mmol/L,3.2,5.2,2025-10-28
+Hospital_B,1238,Hemoglobin A1c,9.3,%,4.0,5.6,2025-05-27
+Hospital_C,1702,Glucose,8.85,mmol/L,3.9,5.5,2026-01-18
+Hospital_C,1128,Glucose,7.85,mmol/L,3.9,5.5,2024-06-19
+Hospital_A,1724,Glucose,4.89,mmol/L,3.9,5.5,2025-11-01
+Hospital_A,1499,Hemoglobin A1c,,%,4.0,5.6,2025-07-13
+Hospital_B,1728,Hemoglobin A1c,8.7,%,4.0,5.6,2024-08-13
+Hospital_C,1996,Hemoglobin A1c,9.8,%,4.0,5.6,2025-11-20
+Hospital_C,1980,Glucose,9.89,mmol/L,3.9,5.5,2024-03-31
+Hospital_C,1319,Glucose,7.79,mmol/L,3.9,5.5,2025-08-11
+Hospital_C,1789,Cholesterol,4.05,mmol/L,3.2,5.2,2025-11-06
+Hospital_B,1654,Hemoglobin A1c,7.2,%,4.0,5.6,2025-10-26
+Hospital_C,1772,Hemoglobin A1c,5.4,%,4.0,5.6,2025-12-30
+Hospital_A,1955,Hemoglobin A1c,6.7,%,4.0,5.6,2024-12-10
+Hospital_A,1774,Hemoglobin A1c,7.1,%,4.0,5.6,2024-05-12
+Hospital_A,1026,Cholesterol,5.89,mmol/L,3.2,5.2,2025-03-28
+Hospital_B,1296,Cholesterol,4.4,mmol/L,3.2,5.2,2026-02-16
+Hospital_C,1821,Cholesterol,6.52,mmol/L,3.2,5.2,2024-05-24
+Hospital_C,1354,Cholesterol,,mmol/L,3.2,5.2,2024-05-31
+Hospital_B,1072,Glucose,8.35,mmol/L,3.9,5.5,2025-10-21
+Hospital_B,1372,Cholesterol,7.17,mmol/L,3.2,5.2,2025-02-12
+Hospital_C,1617,Hemoglobin A1c,5.7,%,4.0,5.6,2024-05-13
+Hospital_A,1554,Glucose,5.01,mmol/L,3.9,5.5,2026-03-24
+Hospital_C,1048,Hemoglobin A1c,4.9,%,4.0,5.6,2025-09-11
+Hospital_B,1841,Cholesterol,5.71,mmol/L,3.2,5.2,2025-10-31
+Hospital_A,1719,Cholesterol,5.46,mmol/L,3.2,5.2,2025-09-10
+Hospital_A,1872,Hemoglobin A1c,7.1,%,4.0,5.6,2025-11-04
+Hospital_A,1180,Cholesterol,4.07,mmol/L,3.2,5.2,2024-05-03
+Hospital_B,1093,Glucose,7.72,mmol/L,3.9,5.5,2025-04-02
+Hospital_C,1004,Glucose,9.57,mmol/L,3.9,5.5,2025-10-27
+Hospital_B,1305,Cholesterol,5.64,mmol/L,3.2,5.2,2024-07-02
+Hospital_B,1676,Hemoglobin A1c,8.8,%,4.0,5.6,2025-09-11
+Hospital_A,1283,Cholesterol,4.85,mmol/L,3.2,5.2,2025-06-19
+Hospital_C,1075,Hemoglobin A1c,4.7,%,4.0,5.6,2025-10-19
+Hospital_C,1362,Glucose,7.06,mmol/L,3.9,5.5,2025-03-30
+Hospital_C,1643,Glucose,4.7,mmol/L,3.9,5.5,2025-03-19
+Hospital_C,1423,Glucose,7.24,mmol/L,3.9,5.5,2024-11-14
+Hospital_C,1357,Glucose,6.83,mmol/L,3.9,5.5,2025-05-29
+Hospital_A,1374,Hemoglobin A1c,7.9,%,4.0,5.6,2026-03-04
+Hospital_B,1369,Glucose,9.65,mmol/L,3.9,5.5,2025-04-19
+Hospital_A,1351,Cholesterol,,mmol/L,3.2,5.2,2025-03-20
+Hospital_B,1418,Glucose,6.18,mmol/L,3.9,5.5,2025-02-11
+Hospital_C,1204,Hemoglobin A1c,7.4,%,4.0,5.6,2024-09-09
+Hospital_A,1325,Hemoglobin A1c,9.3,%,4.0,5.6,2024-05-27
+Hospital_B,1020,Hemoglobin A1c,4.9,%,4.0,5.6,2025-09-18
+Hospital_A,1651,Glucose,8.89,mmol/L,3.9,5.5,2024-06-23
+Hospital_A,1517,Glucose,4.7,mmol/L,3.9,5.5,2024-06-05
+Hospital_B,1571,Hemoglobin A1c,9.1,%,4.0,5.6,2024-12-17
+Hospital_C,1060,Glucose,6.77,mmol/L,3.9,5.5,2025-10-17
+Hospital_A,1992,Hemoglobin A1c,9.0,%,4.0,5.6,2024-10-23
+Hospital_C,1898,Cholesterol,5.55,mmol/L,3.2,5.2,2024-05-17
+Hospital_A,1747,Hemoglobin A1c,7.0,%,4.0,5.6,2025-05-07
+Hospital_A,1971,Hemoglobin A1c,8.3,%,4.0,5.6,2025-11-04
+Hospital_C,1035,Hemoglobin A1c,7.6,%,4.0,5.6,2025-06-27
+Hospital_C,1306,Hemoglobin A1c,5.1,%,4.0,5.6,2024-12-31
+Hospital_C,1628,Cholesterol,6.53,mmol/L,3.2,5.2,2026-03-10
+Hospital_B,1675,Glucose,9.6,mmol/L,3.9,5.5,2024-07-02
+Hospital_C,1078,Glucose,7.01,mmol/L,3.9,5.5,2024-12-02
+Hospital_B,1638,Hemoglobin A1c,,%,4.0,5.6,2026-03-22
+Hospital_C,1391,Glucose,9.9,mmol/L,3.9,5.5,2025-09-02
+Hospital_A,1835,Cholesterol,7.01,mmol/L,3.2,5.2,2026-01-22
+Hospital_C,1866,Cholesterol,4.2,mmol/L,3.2,5.2,2025-05-02
+Hospital_C,1753,Cholesterol,4.1,mmol/L,3.2,5.2,2025-11-29
+Hospital_B,1518,Glucose,5.05,mmol/L,3.9,5.5,2025-08-23
+Hospital_B,1466,Cholesterol,5.56,mmol/L,3.2,5.2,2025-11-11
+Hospital_B,1638,Cholesterol,5.06,mmol/L,3.2,5.2,2024-11-19
+Hospital_C,1843,Cholesterol,3.93,mmol/L,3.2,5.2,2025-11-27
+Hospital_A,1313,Cholesterol,5.71,mmol/L,3.2,5.2,2024-11-29
+Hospital_B,1166,Cholesterol,,mmol/L,3.2,5.2,2026-02-11
+Hospital_A,1142,Cholesterol,5.07,mmol/L,3.2,5.2,2025-06-19
+Hospital_C,1486,Cholesterol,4.32,mmol/L,3.2,5.2,2024-12-19
+Hospital_C,1474,Glucose,9.71,mmol/L,3.9,5.5,2025-08-26
+Hospital_B,1794,Hemoglobin A1c,9.4,%,4.0,5.6,2024-10-31
+Hospital_A,1256,Glucose,4.65,mmol/L,3.9,5.5,2025-08-14
+Hospital_C,1438,Cholesterol,4.73,mmol/L,3.2,5.2,2025-03-21
+Hospital_A,1016,Hemoglobin A1c,6.3,%,4.0,5.6,2024-05-12
+Hospital_C,1903,Glucose,5.29,mmol/L,3.9,5.5,2024-06-25
+Hospital_A,1670,Hemoglobin A1c,6.7,%,4.0,5.6,2024-05-08
+Hospital_B,1500,Cholesterol,5.14,mmol/L,3.2,5.2,2024-12-03
+Hospital_C,1052,Hemoglobin A1c,6.6,%,4.0,5.6,2025-04-06
+Hospital_A,1861,Hemoglobin A1c,,%,4.0,5.6,2025-05-18
+Hospital_A,1059,Glucose,,mmol/L,3.9,5.5,2025-03-25
+Hospital_A,1914,Cholesterol,6.93,mmol/L,3.2,5.2,2025-06-24
+Hospital_C,1833,Hemoglobin A1c,6.4,%,4.0,5.6,2024-10-09
+Hospital_B,1944,Hemoglobin A1c,6.0,%,4.0,5.6,2024-05-20
+Hospital_B,1266,Hemoglobin A1c,6.9,%,4.0,5.6,2024-10-31
+Hospital_A,1979,Glucose,8.69,mmol/L,3.9,5.5,2024-07-16
+Hospital_B,1722,Cholesterol,4.24,mmol/L,3.2,5.2,2026-02-21
+Hospital_C,1479,Hemoglobin A1c,4.9,%,4.0,5.6,2025-09-03
+Hospital_B,1823,Glucose,8.27,mmol/L,3.9,5.5,2025-08-17
+Hospital_B,1930,Cholesterol,5.13,mmol/L,3.2,5.2,2024-06-02
+Hospital_A,1660,Cholesterol,6.56,mmol/L,3.2,5.2,2025-01-17
+Hospital_C,1345,Cholesterol,7.5,mmol/L,3.2,5.2,2025-04-21
+Hospital_A,1233,Glucose,5.18,mmol/L,3.9,5.5,2024-03-31
+Hospital_A,1980,Cholesterol,6.79,mmol/L,3.2,5.2,2025-08-04
+Hospital_C,1623,Cholesterol,4.03,mmol/L,3.2,5.2,2025-06-26
+Hospital_B,1428,Glucose,5.06,mmol/L,3.9,5.5,2025-07-25
+Hospital_A,1402,Hemoglobin A1c,4.6,%,4.0,5.6,2026-03-06
+Hospital_A,1220,Cholesterol,4.08,mmol/L,3.2,5.2,2026-01-28
+Hospital_C,1486,Cholesterol,5.93,mmol/L,3.2,5.2,2026-03-01
+Hospital_C,1556,Glucose,4.52,mmol/L,3.9,5.5,2024-10-04
+Hospital_A,1402,Cholesterol,4.47,mmol/L,3.2,5.2,2025-08-14
+Hospital_B,1177,Glucose,3.96,mmol/L,3.9,5.5,2025-09-30
+Hospital_C,1951,Glucose,6.81,mmol/L,3.9,5.5,2025-08-06
+Hospital_B,1170,Cholesterol,7.64,mmol/L,3.2,5.2,2025-10-17
+Hospital_A,1099,Glucose,7.1,mmol/L,3.9,5.5,2026-02-26
+Hospital_C,1780,Glucose,,mmol/L,3.9,5.5,2025-01-19
+Hospital_B,1998,Glucose,7.81,mmol/L,3.9,5.5,2025-09-14
+Hospital_C,1308,Hemoglobin A1c,6.9,%,4.0,5.6,2024-10-31
+Hospital_A,1468,Glucose,3.93,mmol/L,3.9,5.5,2025-08-26
+Hospital_A,1493,Glucose,9.34,mmol/L,3.9,5.5,2025-07-16
+Hospital_C,1993,Hemoglobin A1c,8.9,%,4.0,5.6,2025-03-22
+Hospital_A,1332,Glucose,6.18,mmol/L,3.9,5.5,2024-07-25
+Hospital_B,1543,Hemoglobin A1c,7.2,%,4.0,5.6,2024-08-28
+Hospital_A,1652,Cholesterol,5.51,mmol/L,3.2,5.2,2024-05-07
+Hospital_B,1535,Hemoglobin A1c,7.3,%,4.0,5.6,2025-03-02
+Hospital_A,1506,Hemoglobin A1c,5.8,%,4.0,5.6,2024-09-19
+Hospital_C,1142,Cholesterol,4.41,mmol/L,3.2,5.2,2024-06-17
+Hospital_A,1601,Glucose,9.57,mmol/L,3.9,5.5,2026-01-27
+Hospital_C,1376,Glucose,10.0,mmol/L,3.9,5.5,2026-03-12
+Hospital_C,1703,Hemoglobin A1c,,%,4.0,5.6,2025-01-17
+Hospital_C,1675,Hemoglobin A1c,7.7,%,4.0,5.6,2025-11-01
+Hospital_A,1826,Glucose,4.59,mmol/L,3.9,5.5,2024-08-27
+Hospital_B,1359,Cholesterol,4.06,mmol/L,3.2,5.2,2026-01-27
+Hospital_B,1224,Glucose,8.13,mmol/L,3.9,5.5,2025-04-13
+Hospital_A,1449,Cholesterol,4.42,mmol/L,3.2,5.2,2024-10-31
+Hospital_A,1106,Cholesterol,,mmol/L,3.2,5.2,2025-07-20
+Hospital_B,1402,Glucose,6.91,mmol/L,3.9,5.5,2024-05-22
+Hospital_B,1377,Glucose,4.24,mmol/L,3.9,5.5,2024-04-05
